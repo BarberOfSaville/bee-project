@@ -1,0 +1,31 @@
+This is a test file to make sure pushing to GitHub works.
+
+Before doing anything, make sure you're in the correct directory!
+
+#initialize git
+git init
+
+#
+git add .
+
+#create initial commit
+git commit m "Initial commit"
+
+#add the git to GitHub
+git remote add origin https://github.com/[USERNAME]/[REPOSITORY].git
+
+
+#if there is already a commit on GitHub before pushing...
+git branch --set-upstream-to=origin/main main
+git pull --rebase origin main
+
+#then, the push
+git push -u origin main
+
+
+#check the status of the git-- is it up to date?
+git status
+
+#make a new commit
+git add . 
+git commit -m "Informative note on the new commit"
