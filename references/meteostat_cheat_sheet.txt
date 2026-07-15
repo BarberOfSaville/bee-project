@@ -1,0 +1,15 @@
+Meteostat output cheat sheet
+
+temp	Temperature (°C)
+rhum	Relative humidity (%)
+prcp	Precipitation (mm)
+snwd	Snow depth (mm)
+wdir	Wind direction (degrees)
+wspd	Wind speed (km/h)
+wpgt	Wind gust (km/h)
+pres	Air pressure (hPa)
+tsun	Sunshine duration (minutes)
+cldc	Cloud cover (0–8 oktas)
+coco	Weather condition code
+
+okta: scale of measurement to describe amount of cloud cover
