@@ -14,3 +14,24 @@ def nearest_station(lat_long):
     station_id = stations.index[0]
     return station_id
 
+def station_all(df):
+    """Gathers nearest weather stations for coordinates in a sheet."""
+
+    #create stations ditionary
+    station_lookup = {}
+    
+    df["station"] = None
+
+    for index, row in df.iterrows():
+
+        coords = (row["latitude"], row["longitude"])
+
+        if coords not in station_lookup:
+            station_lookup[coords] = nearest_station(coords)
+
+        df.loc[index, "station"] = station_lookup[coords]
+
+        #print a message for debugging
+        print("Nearest station for {coords} is " + station_lookup[coords] + ".")
+
+    return df

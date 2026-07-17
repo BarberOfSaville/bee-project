@@ -9,11 +9,9 @@ import meteostat
 
 def summarize_weather(df):
     """Returns average weather values from weather dataframe."""
-    temp_mean = df["temp"].mean()
-    rhum_mean = df["rhum"].mean()
-    wspd_max = df["wspd"].max()
-    prcp_tot = df["prcp"].sum()
-    weather_vals = [float(temp_mean), float(rhum_mean), float(wspd_max), 
-                    float(prcp_tot)]
-
-    return weather_vals
+    return {
+        "mean_temp" : round(df["temp"].mean(), 1),
+        "mean_rhum" : round(df["rhum"].mean(), 1),
+        "max_wspd" : round(df["wspd"].max(), 1),
+        "total_prcp" : round(df["prcp"].sum(), 1)
+    }
