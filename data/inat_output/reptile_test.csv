@@ -1,0 +1,1455 @@
+uuid,id,taxon,observed_on
+427450c9-0140-4ac7-8a7b-25ec3e7eeed0,1019437,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2014-10-14
+695e078a-46b2-4cc5-8b02-e00a7772a123,3814032,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2016-08-06
+ce278c38-d2c9-4f56-b048-00c5c6f587e4,3868988,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2016-08-12
+4c6975d1-5001-46e3-9081-1fd9c36b49f4,3871565,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2016-03-25
+dd9b4513-954a-41d5-a89c-eb220b83d3dd,3886130,"{'id': 26591, 'name': 'Diadophis punctatus edwardsii', 'rank': 'subspecies'}",2016-08-14
+2f2f45c6-31b5-4020-a235-179514cf18a0,5251527,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2016-08-06
+90390043-6f7c-42b3-8904-2a3fefb8114f,5283521,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2017-02-24
+87b447ee-25c0-483a-89cb-217b8ec02e05,5926736,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2016-08-16
+bd72b8db-5764-435f-abfc-ccf814a97187,5999375,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2017-04-28
+00fdbb5f-0163-4922-9c7a-96f9fa4a819e,6375994,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2017-05-23
+46cf34ee-841d-40d3-bbaf-5738de65a70f,6748232,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2017-06-21
+959ca1a1-a9dc-41a8-bbe7-17dfb9fcdd2c,7062641,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2017-07-15
+da668f3d-2caa-4b86-9289-dc39718d3db9,7793584,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2017-09-05
+ea24f7e0-3dff-4754-b862-4ea3d10f9f46,7806181,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-09-06
+e984fd58-1b31-4059-ba17-4b428320503a,8891900,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2017-11-19
+3b957c04-4bfe-467c-b5a4-917052f4aa96,9456940,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2017-05-27
+091406db-6958-4bf2-b1b4-b4c4f2061a01,9456941,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-05-27
+c31a48a0-7d1f-4b67-be93-294ee3fc2543,9551933,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-06-23
+05d538d6-619d-4bf9-a0ec-92fc453a2835,9605711,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2018-01-24
+7f2a3d67-bbac-4e08-86ed-18ff6d80a3fe,10591777,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2018-03-17
+55f45c88-f34a-41df-8602-dfeda3f64dce,10595533,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2016-07-25
+9d8550ff-6734-4351-8caf-f679c1160141,11212437,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2016-04-01
+2771c197-7cc1-444f-9106-e0908bc98f47,11483014,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2018-04-26
+be79b851-826a-49af-86b8-b4c38d439e8b,12098163,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-05-03
+759deeb2-0b1d-4852-9f11-0a28447a649a,12363831,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2018-05-11
+6d35e6f5-d9ce-46c1-a7b5-b86372f2d278,12771336,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2018-05-24
+3654bebb-d6f3-40ae-af7f-6c7143fa786b,13217054,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2018-06-07
+47de5454-c961-4b59-9473-030eb23c483d,13267141,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2018-06-09
+5d9855db-6d9a-42e6-b31e-d475b17c2297,13370499,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2016-05-25
+b88815d1-4454-47f9-b2dd-6b641bcb1462,13431264,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2018-06-14
+cbe3d793-aa20-46fe-aa63-03e9170ad189,13815715,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2018-06-26
+e5b8681b-a825-4355-ba08-5570c2554e42,13914864,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2018-06-29
+540aa7fc-dc98-4366-9a98-702cba868a7b,14200757,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2018-06-29
+1afc5acb-f24e-4949-b5a4-ecc8da874761,14998049,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2018-07-31
+69264704-883a-4952-8289-a5783e32cea3,15015615,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2017-08-21
+e9c5b421-cbc6-4d4d-9c44-c549fc92cf85,15138323,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2018-08-05
+7547cc08-a33b-4864-8153-147ef466e771,15589729,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2018-08-17
+d70b4098-0970-4f4b-bbb3-72f7c7cbf85b,15747384,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-08-09
+509cc69c-cdce-4039-9e7f-86d7238e90b8,15784062,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2018-08-21
+4bbe1940-caf9-43cc-98c3-8d534e48046c,16172355,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2018-09-03
+e21185c3-adec-4766-a267-0a46350e2dc9,16228035,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2018-09-05
+09fee144-1cfa-4b0d-83af-78706574f715,16996207,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2018-09-24
+1fa1bfbf-0926-4b28-bf09-5a668966249f,17191391,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-10-04
+0137bcf0-6920-46ad-9bf9-2753c531d917,17975521,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2018-10-28
+e2136950-7ca4-48a7-8dee-a6ce505b7d4d,18113855,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2018-11-04
+97511960-b772-41dd-8058-acb60ed5cb5b,19051166,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2016-06-04
+468cb9f4-c192-4108-ac75-007f8d8e797c,19367841,"{'id': 28339, 'name': 'Thamnophis', 'rank': 'genus'}",2019-01-01
+95625d3d-9cb4-4162-9192-44640a911fba,20170874,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2018-07-02
+306c1e52-752c-470e-ab32-72dbbcdcd77e,21543460,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2011-07-16
+57aa0016-519c-4103-b8cb-3d230d56a716,22376185,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-04-12
+684e71ac-8ca8-41fb-acad-3e44420ec35a,22490204,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-04-13
+dfaac982-1d05-419d-af23-7a138ec3717f,22703420,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2019-04-18
+39f50e3a-ebf6-4a38-96e2-22a4ef165f70,24433873,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2019-04-29
+596193ec-43fc-42ab-9f37-ba00ffcd6173,25600426,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2019-05-22
+e82e7e07-4cf5-4682-b7c5-2fb26e8b3d3f,26482423,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-05-30
+2c3eb006-0ac5-4fd7-808f-a90712229081,26500422,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2019-06-06
+6375eb75-1e40-4cd8-80c6-8bc618a38211,26701240,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2019-06-09
+63330092-bc4c-460d-b74a-2f729b7c9bff,26982109,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2019-06-14
+567fd601-93f5-48f9-bb17-fc39ffc66352,27015997,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2019-06-01
+d63e1f26-f405-4c34-bb29-e862f8d55186,27031405,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2019-06-15
+fd8241e8-e711-44ad-a321-fb7b97e466c3,27032802,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-06-15
+4c7b93e5-9bfd-4799-9545-39f2b5a704a5,27095490,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-06-16
+27d753c6-de13-41d7-9da6-f37e866e207b,27335123,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-06-20
+95dd24d4-fc39-4e2e-ab91-6ddf4511ae40,27349451,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-06-20
+ca8c04ee-2fcd-406d-9d25-31e5891ec42c,27360735,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-06-20
+5dd881aa-a819-4e6b-84b9-5bb169d89a76,27391834,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2019-06-21
+147c8901-24b6-4781-9ba8-a2d6ed5e4fcf,28131454,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2019-07-03
+7286ac8f-86e4-4754-8f7c-8acc6915dfc2,28247666,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2019-07-05
+db5ad985-1fe9-46fd-b036-5ef7ce14b0cc,28309118,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2019-06-21
+e54eae73-f4ff-4d26-8db6-c8489c7c7a69,28697577,"{'id': 1544605, 'name': 'Terrapene triunguis', 'rank': 'species'}",2019-07-12
+4763aae5-bcbe-476c-b89b-ca7de99e1f3d,28811920,"{'id': 68334, 'name': 'Pelodiscus sinensis', 'rank': 'species'}",2019-07-14
+1900257c-5fe7-4e1b-898e-1aaa2e652365,29075801,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2019-04-19
+723538f4-1923-42eb-bfec-eb91595e802e,30038046,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-08-02
+0d8953f4-37af-4dbb-b41a-b97827240675,30232060,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-05-31
+25aa301c-c731-48cf-b526-a3baf062a8bb,30656373,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2019-08-11
+73657382-9979-4ed1-8a12-8f4fb2cfedcf,30818401,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-08-14
+e8be75e5-111a-48d5-8e48-055a979f1fb2,31552573,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-08-26
+d962795c-e4d0-459a-a619-a3f4e62f0ef6,31565223,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2019-08-25
+908a6ef0-b10b-411b-a1ad-07ef7ee5625d,31857577,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-05-31
+9aaf9449-41e6-400e-8216-03f516ed0b06,31980007,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-07-17
+0b584ef3-3b33-47a8-baa4-036b0a7f4210,32118989,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2017-06-21
+8167ac76-28bd-4ab5-92ad-c56e6551dabd,32185954,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2017-06-22
+fb3d7a50-77aa-4589-b62f-8f5fab73bd1f,32501048,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2019-09-10
+148c739a-7021-4f18-a3a9-75e029a27398,32577565,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2019-09-10
+d27576d1-b26c-47a6-9da8-1c12f52a0dc3,32606315,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2019-09-12
+28995a80-cc89-4eb3-bd38-93f35a44ed45,32658565,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2019-09-13
+0c61469b-5e80-48d1-bb2d-ec4317a2f8c5,32659990,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-09-13
+e556438b-dd03-441e-98ec-b11ce278a796,32691402,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-09-14
+ee91cc42-6c6b-420f-bbe0-c7744b7859aa,32727218,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2019-09-14
+77ae5bdd-7430-42a1-87ca-cfb46ab61976,32974885,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2019-09-18
+ef5b59d2-5fcd-4903-8195-5991956818c4,33621643,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2019-09-29
+81d8d35f-61a4-4830-9409-5af81b826f1d,33777218,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-09-17
+2c3c0cd8-4481-4179-b08f-613878f9847c,34028998,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2019-10-07
+1bc2617c-55b2-4ebb-b6f6-1bc7137d1f44,34853630,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-09-28
+1c02bdcb-6cd8-4c66-a4de-7915dd3ca689,34945436,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2019-10-26
+4e773c7d-8106-4292-a7a7-ca6cde067d0b,35493861,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2019-11-09
+0f853767-039e-437a-a01f-1221229e916e,38531932,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2019-09-22
+722190a3-022c-496b-b57d-19fc21616163,39546725,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2017-09-09
+f032e65c-8e8c-48c6-8a98-f82697f5a4b1,39831100,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-03-10
+33c3c564-67c7-4659-9d13-4d64b11274e1,40533891,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2020-03-21
+36f08550-ca9d-45a4-b8dc-2720cf3c113a,41382789,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2020-04-04
+86fa11a1-d9cf-410d-9f27-fe27a868b97a,41382961,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2020-04-04
+812ea2b9-4df6-48d5-9109-8c33740dfe72,41473709,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2020-04-05
+98b86f6c-1118-4805-94ed-be69aefa5122,41963427,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-04-11
+befa749d-ed89-441a-9404-433ed537741f,41964027,"{'id': 28339, 'name': 'Thamnophis', 'rank': 'genus'}",2020-04-11
+a28fac0d-9487-4b00-abed-ca1d671f56aa,41991292,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-04-06
+dfc5761f-7b47-489a-ad1c-be63b59ac2fb,42598748,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-04-19
+59fbfadf-8f48-4491-87dc-6af1b60a75e8,44658686,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2020-05-02
+3fa1fc33-0112-4ae6-8228-be280b60bbea,44985697,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2020-05-05
+87d17818-f071-4d05-827e-f083b927059a,45178005,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-05-07
+ad631ba8-99fd-4f31-a97b-2b9f007dcb90,45257295,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-05-07
+788344a4-e302-4141-bfe9-75d53acebc7e,45373378,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2012-04-06
+4c366a62-9c21-4305-b96f-b93124102f81,45382638,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-05-09
+19d7d609-e22b-47c5-9d5c-69ef92a70773,45384166,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2019-08-05
+860c382b-8896-4710-bfc6-3876c74090b9,45526183,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-05-10
+6a36cfbc-89c9-4eb2-84bb-17f1d91fe7cd,46027855,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-05-15
+c365df3f-d657-4dfa-bd10-884ec6303b1a,46069302,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2020-05-16
+8c283455-ac83-4dff-baad-526fdab7a5b1,46234015,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-05-17
+631d0c67-bbef-4230-bb5c-ee14ca39693e,46298452,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2020-05-17
+194c4899-87a3-44c5-84cb-7c3383949f5d,46361493,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-04-09
+186e740d-6f11-4059-8089-518bf6741055,46410247,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-05-18
+2e7eceb4-9e95-421e-8f20-c38f14647c65,46806799,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-05-21
+fc589041-b8df-45fc-b59a-3cfc3bece604,47134872,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-05-23
+396c4d29-4d20-4269-b8f7-acd7ab389c01,47176772,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2020-05-24
+22e5e915-e08c-4783-b2de-08ef34af56d4,47539876,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-05-27
+5d49fe6b-a805-4286-a25d-a7bb11117f59,47550939,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-05-27
+b84355d2-5e5a-4afd-8276-2758620fa785,47854072,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-05-30
+e0e7bec1-4cf9-44b6-ae37-27e7d7cc4bbe,48121273,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-05-30
+740a8404-a175-4d1c-8643-9e30121a8d7d,48129433,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-05-30
+c7aedab7-681d-42c0-8bf5-69b176c9376c,48160563,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2020-06-01
+65627089-66fb-4548-8f94-3f5eb5a824f6,48428813,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-06-04
+9b2d7c9c-b9ef-4419-a286-dd7a0d896082,48500873,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-05-24
+5d70d5d6-69ac-4710-ab9e-88a6ddc9dbf2,48587051,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-05-12
+d7a3a629-029c-4d00-b1ec-21a12f7b9cd6,48668279,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2020-06-06
+dc3889a0-acc8-420c-913d-cd659fa3298d,48797643,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-07
+ee3dc6b2-2a57-4690-9c6d-0b8baf62b5e1,48846091,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-07
+28251160-555e-4f72-a116-0cd10fb85cf6,48901449,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-06-08
+bb0d688d-3360-4962-ac48-273612320bd5,49070441,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-06-09
+9270a992-5077-4346-a80c-81f63713324f,49365884,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-06-08
+8e2f575a-bb74-466b-92ef-d7eb4a0ae750,49476796,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-13
+2e3c15a2-e33e-406f-a2a4-a8e0163b41a6,49982799,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-06-17
+3955b005-34fd-4604-9be1-a55ed078e895,50715410,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-23
+46fdbd74-1be6-4198-9ec6-b5ce18363674,50723937,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-06-23
+a745110a-5329-4553-a0f1-aaba1a2f9aaf,50727439,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2020-06-06
+267b9d3d-b692-4143-8bae-c087fbdcb922,50912815,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-25
+e97ed8bb-ee09-4a71-9a1a-7ea774245cf0,50915057,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-06-25
+889e00f7-5723-4df9-87fd-cf0bf9efe69d,50943504,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-06-25
+2e9bee08-df6b-4535-ace1-1e7e0f718334,51026324,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-06-25
+cb81861c-225c-4e30-8aad-968e1ddadfd2,51120281,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-06-27
+de10a2c7-e0e3-431a-96ef-db9dce7fd47c,51383451,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-06-29
+fe2ccd90-8178-463b-81f7-9961602d1580,51615698,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2020-07-01
+e0085951-cf5c-45d7-9278-c84fab69f231,51699544,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-07-02
+e7d755ff-ed8a-47f2-b8cc-0a4752e149f6,51821487,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-07-03
+248d97bc-d6f8-4f7a-9fdf-1ac35f0e4c7b,52053773,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-07-05
+ee3ec7bd-1266-4ab2-b664-5b8106fede06,52279653,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-07-07
+2e5845dc-43f0-45d0-9a44-0fd6a077e751,52487374,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2015-09-12
+6075586d-88b0-4a04-aa93-c99949218bdc,53034719,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-07-12
+231fa636-5013-4aa6-a619-c6476e254ad0,53823130,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2019-05-22
+30516451-dd2b-44a6-a95e-7c1004bb53cb,53992754,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-07-11
+0fb9a3b6-718a-41e0-9b2f-ff354e9766c2,53992759,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-07-11
+a862760b-aafc-4312-a6b6-9f1aa2cb7843,54262265,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-07-24
+6db328ee-a34d-4886-b326-9e06dae08c11,54325045,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2020-07-25
+3c98322e-7ef7-4652-8535-3cd2bd367894,54528365,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2020-07-27
+cfa6e860-0091-40db-89c0-02e74712586a,54667026,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-07-11
+02c3dd21-79b8-48ba-b12d-e43da51223ab,55208328,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2020-08-02
+7efbdc24-7b98-4f1b-80a7-be5d77c19c03,55546837,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-05
+417c27f3-9509-4a26-8014-fad1863202db,55886542,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-08
+cdc26536-0756-4832-8ebc-d0f05c27a767,55886553,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-08
+ceef8788-24c9-4802-b76a-4b54554e5ddb,55949012,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-08-09
+3878c662-07f8-4f04-bea9-cf8b0d8181a1,56075662,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2020-08-10
+39a58260-4372-4a34-9c34-6f31aa5dcb0e,56853639,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-08-18
+4d34a7c2-656b-4646-9700-6cfaa3311bad,57180747,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-18
+1c2d87f1-0e62-4243-a5eb-e13a1a8b47d1,57415851,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-23
+63e93db5-e3fa-4cf5-8959-7fe526c4e4d5,57849340,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-08-28
+d877a76d-a04c-44ab-a421-96814de35932,58143979,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-08-31
+4cc7b8a4-b32c-489c-99a1-dbbf30d5c138,58202446,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-07-01
+246460da-3b3e-4eca-b9be-f1479b109619,58308377,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2016-06-27
+e4227ba0-0406-49ef-b961-f5848ff5a501,58333090,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-02
+3f9b3e6a-fbdd-4617-8eb4-e28670780360,58372418,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-08-28
+f2fec775-fbd2-482a-aee1-fc2d8fff727d,58446976,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-09-03
+1e1c8b22-4be3-4813-aa74-8c5c4b01aed4,58447181,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-09-03
+c5bc4dd8-6fd1-4e22-aa19-2362f1bbb793,58447373,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-09-03
+05091475-8858-4dd2-af8a-36a1c64f2b4a,58471087,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2020-09-03
+c2d7d6ae-b11f-4dca-abeb-a7fe53892ca4,58471321,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2020-09-03
+36337a58-cdc1-42f5-8c2d-952ba7f2e9c2,58628885,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-09-05
+0f2fad10-ade6-40b3-8085-66795de7022f,59140033,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-10
+6924c097-b26b-401a-84eb-2ef0049cc2e1,59145220,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-10
+22b95aa1-f48d-47a2-8717-e44343a06f9c,59247761,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-09-11
+fd754ba5-dd08-4b2e-b38e-52ca0536c13d,59271353,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-10
+119144c4-988a-4904-81a3-bc7afd297751,59271486,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-09-11
+5ad9c14a-4d98-4737-88e5-18380790eeb9,59699321,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2012-05-13
+93fa40c1-e353-483b-bfc6-689bc041439a,59733327,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2018-06-08
+f81d501a-ac15-4c39-87a8-2c1aaf5f4857,60212182,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-20
+290e2ff8-baca-4d0d-b031-8f0b9b0ecb5f,60452543,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-22
+ba0104c5-5da7-4b2f-b792-8fc6e875d804,60531751,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-23
+c2b44d98-fb1d-4672-8721-294f41cdba25,60578645,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-06-18
+1f3a39f2-1e11-4d47-b7cd-907dfb034837,60963290,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-09-26
+788a6042-2b7a-4b4a-aadd-53a65bccf71d,61059866,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2020-09-27
+8ca526cd-bf88-47ec-b2e0-3eef6b21b34d,61240688,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-09-29
+81d4d6b4-d40d-4e6f-b94e-e1aa78820758,61301823,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-09-29
+7080b763-1455-4056-af01-6fe4fb8d555a,61330021,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2020-09-28
+4e54a507-3242-48c9-a11e-30dcd5f78590,61570575,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-10-01
+9f4f0cdc-0f42-46ac-9243-623b15236f6f,62236853,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-10-10
+063ccd9c-ac88-4be7-8ba5-61736cc2fa4e,62291578,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-10-09
+430c59ec-078b-4568-9737-88c8798f0f1b,62906398,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-10-16
+b98f3cec-eb56-4727-8d67-6c52b08618a6,62917331,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2020-10-18
+eaef3b4d-2b54-4d9d-9af0-916f06f60e75,63019157,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2019-08-18
+8bad3e21-639c-40dc-ada7-6b37effe227d,63322380,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2020-10-23
+12b52a1b-cdf8-438f-a654-fc388fd420fa,63450001,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2020-10-24
+cfc4d625-3845-44b0-a6a9-0fbf52e00a61,63502238,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-10-25
+bb401f11-68ba-487d-98b0-2a5bdc20ba6f,64185746,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-11-04
+7e63c836-ccb7-4fa0-ae49-8c3bccb80c3d,64372065,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-11-01
+07142625-486f-4088-93ad-02437d9cd199,64378996,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-11-07
+a219d942-55c5-4017-8daa-d6c582238679,64393656,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-11-05
+e820d38b-4aa8-41bf-af2a-7711d35801e0,64489390,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2020-11-07
+9b23e4a8-7376-4ec8-9c51-2f8379d7e89c,65041555,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2011-05-21
+2b82d60b-9036-4462-8469-9838fba5f53a,66045223,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2020-11-27
+2e1940f6-dd91-4441-a9d3-c515b14319c4,66047475,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2020-11-22
+81a59238-e0c3-4699-9459-fdd7a8f41281,66619712,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2020-04-25
+a7a5f876-cdae-42c8-ae66-0da30da00366,66619818,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-12
+d1825e38-91a6-4264-ac26-84e93bd758de,67922547,"{'id': 73844, 'name': 'Lepidochelys kempii', 'rank': 'species'}",2017-12-17
+1c30dc49-dad2-4fca-b57c-0976ba33c8e5,69725841,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-08-14
+b6ac358c-784c-448c-b731-ba8a084c89f3,69762155,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2020-08-14
+11971c03-b93f-48ab-b9ab-41baf9160c1b,71057396,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2020-06-19
+dbf62c52-1134-45a4-96bc-019ccd92880b,71857146,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-03-22
+743c27b5-7916-4827-bc89-a3e1629de4e7,72022890,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2021-03-25
+0a08098b-f415-4aae-af33-26affcefd405,72059096,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2021-03-25
+d24f7820-af44-40b0-a752-1da608aa4ffb,72125428,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2021-03-26
+c1483d01-5051-4e91-a158-c8de66c56b62,73111745,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-04-06
+feacdc2a-101e-44e7-a3e3-83783243be0f,73139360,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-06
+bbd02609-cd32-49f2-8aa5-1df39697941f,73316948,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-08
+00986312-6056-4433-8f48-c8497d0868ba,73556942,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-10
+f3b5b16a-c42f-4832-af56-f88f3bd6f0b8,73557064,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-10
+7cdc7e67-ffc6-4673-a8c3-f544ef3a948e,73557105,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2021-04-10
+1b31e3b7-136c-4a69-8bcb-3e77ac715afa,73624528,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-04-11
+fe2682ee-82b9-4870-8ad8-69821917f9d4,74154363,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-04-16
+037b8e17-f29c-4115-844b-10d030589f7e,74165284,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-04-14
+086edfbe-3500-4e99-b765-de5ab316ff7a,74241938,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-17
+ecb3ea1c-5cac-4b56-9ef2-966d4a04343d,75549853,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2021-04-28
+cb2fd521-88c5-4c35-9f59-99fe2ba01ca3,75620806,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2021-04-27
+c760654b-43ef-43e7-932f-6f5b7484a3e2,75645599,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-04-29
+4ca5aba9-6369-45f8-82db-2935c0dcbcfa,77355029,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-05-04
+af747913-356e-469e-aa9b-ea6f119c3b42,77792756,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2021-05-07
+58989715-243d-465d-a6f2-e328641354d9,78110854,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-05-09
+a5d3e175-8bd1-4b71-a131-45c901cc7233,79211766,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-05-17
+d843e028-0986-4366-a618-c91235d2f987,79226074,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-05-16
+f003c078-1479-48be-baa6-785beb8acdfa,79471172,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-05-18
+1a15fad8-53ae-48ce-9cf8-a6049ec9d4a1,79816289,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-05-22
+97435207-a80c-4143-be84-72d48fcc98cd,80308266,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-05-25
+45e483dc-8eb7-4312-88e6-6324de9696af,80379175,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-05-25
+59283916-1b43-4253-adaa-24e5c01bcc96,80404790,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-05-26
+6ffde1f9-31a1-44ba-b2a9-eb4d78b1e597,80423732,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2021-05-23
+63d78ee8-45d8-4d32-8473-157b952690f3,80469384,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-05-27
+96f602c0-318d-4d56-9061-2c079a9c846c,80525108,"{'id': 39814, 'name': 'Terrapene carolina', 'rank': 'species'}",2021-05-27
+c4d52f44-845d-45cf-8221-0ac4bff486e8,80550347,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-05-27
+db4380e6-a15e-4b10-a70e-bcb49f537156,81132867,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-05-31
+afeb00e2-ae7e-474b-9e29-44c8c3be0be4,81387767,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-06-02
+ec10fc1d-6741-470c-81e2-62b79993d267,81867381,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-06
+7e83922c-e81d-476f-9013-947dcf2a72cd,82296238,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-09
+eb257f83-db9f-4c00-865a-2ec56ff02426,82376935,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2021-06-09
+062f16a2-5d0b-4541-b58e-fdefa5f468a8,82436791,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2021-06-10
+b2312a4e-9104-477d-ad57-0221a56a4e67,82493710,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-10
+f42cac25-b4b7-4646-ba8a-7577849981b3,82713953,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2019-06-22
+61997ee4-5f01-435d-bc03-0bdd55068a01,82729633,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-06-12
+6796f4a2-b041-4d4d-b6bf-78edc6290320,82919909,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-13
+0b7af128-4df0-4059-80c6-12bad2a56061,82923197,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-13
+4a3450d0-ab1d-4275-986d-4f7bf5e471cb,82983807,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-06-14
+c6bf9456-26c0-4b86-ac7e-4314c66deb7a,82984800,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-13
+7731516f-3554-48f0-bd93-ec31da29aaf0,83000621,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-12
+65ad47a1-89e0-457b-b02b-6ed7e3f1cd85,83335473,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2021-06-16
+b2239253-1cce-4a1f-a3a2-9a91dd30174a,83809977,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-20
+02bb5980-7c2e-42ab-a470-b5a54a7bf2e8,83924906,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-21
+05c56233-22c4-4b30-8cd6-2ca2ff0c3b9a,83970708,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-21
+1e573377-8aeb-46dd-a3d1-0eae88c94fd6,83977280,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-06-21
+90d851a0-22f7-4d94-905b-4559c49d30bd,84188046,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2021-06-23
+904eee7c-9fe3-42e5-a264-eea899bde5c5,84213087,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-23
+9f2f5f9d-1fa2-4c46-a259-7b84dd6c5b91,84298397,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-23
+64844f82-b8c2-4d8e-bbdc-6f109a925f4e,84350245,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-24
+807d05b5-7506-4891-afde-bc44a24d1b40,84444453,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2021-06-17
+0b32bbe7-aaed-445a-9a13-cc166ce5f508,84452426,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-25
+62297b59-3aa9-4f52-84be-621b5bfa96e8,84613865,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-26
+88c78c6d-7fa5-4c42-bea2-2a105b7738ed,84773656,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2021-06-27
+8bba8eb8-6afd-41d0-b671-08428d28d7a4,84810965,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-27
+1148fe7a-6273-40cf-b28a-406584861d2e,84810973,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-27
+73b35846-5367-4959-9899-42fdc87deed8,84900449,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-19
+19361db7-e4b5-42a0-8242-cd4e81d98240,85146150,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-06-30
+e392cbcd-3981-48c0-b322-9f9904c6c4b2,85238390,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-07-01
+afb98d8c-0dfa-4c8c-a60a-32551e2685e4,85239203,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-01
+9be9c2f0-b6f3-4950-98fc-d2e7b278d408,85239571,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-01
+60c03260-b721-490e-9c45-d371cd00215b,85376927,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-07-02
+dc58ce67-6b73-480c-b3b2-1ac10b62eed6,85915751,"{'id': 39703, 'name': 'Sternotherus odoratus', 'rank': 'species'}",2021-06-21
+2c01e760-6b2b-4799-a24c-7c2743b6dcd3,86156000,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-06
+1cfd2d77-de14-44f1-a1cc-d5ab054601a7,86270832,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-07-09
+64979f2a-3d71-4e3c-b976-9c25a2fedd64,86485609,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-07-10
+4928c6c4-8744-44b3-817d-2657f839a78b,87296916,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-16
+71f2cb9c-0df4-437b-8788-c6df9a8900a1,87717471,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-07-18
+7341978a-d8c1-4e41-9e29-9434e225871e,88064738,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-12
+b7d65336-20e7-40b1-9d9f-0e0e4ea32c7d,88127361,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2021-07-22
+87b20125-057e-4f2f-b80e-522fdc266d63,88252748,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-11
+8b6cd861-4f31-4dff-9418-6a337018f1c9,88450422,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2021-07-24
+44e229f7-43f4-4d64-85cd-e2a9e3a1615f,88738221,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-07-26
+0e9f26db-d24c-4933-a68f-50dd5d25f85e,88739253,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-07-26
+cf73872a-2219-4298-9ce0-f26cdbfa32f4,88747392,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-07-26
+7de5e13a-913a-4c09-897f-3f2a1759b59d,88990658,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-07-28
+694525cf-bce5-400b-8bfd-37fef58e83dc,89017264,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2021-07-28
+35c58b4f-6207-4e92-beba-7db42e6e6e13,89363122,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2021-07-31
+3323844c-eb04-4a36-841f-31b05360ec0a,89490683,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-04-23
+d220475b-559f-4490-b4bd-a0f5c4e141f0,89661915,"{'id': 39665, 'name': 'Caretta caretta', 'rank': 'species'}",2021-08-02
+17b25189-5bc2-485a-a864-ef78691d006b,89921556,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-08-04
+bb632bf0-bf62-4da4-bc42-33d20b36037d,90152276,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-08-06
+d54775f0-0ce1-4b04-91d6-ef8cb99ecbd8,91060137,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-08-13
+bdc45d0b-1694-45b4-aab5-3dacf7ea96e6,91678923,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2021-08-18
+804086db-409c-4a5a-8681-ec7fbadbec29,91803030,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2021-08-19
+941bb07c-043d-40fa-ad2d-51520fc32a62,91975927,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-08-21
+f7acecae-ab55-4108-8103-f561995356dd,92156118,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-07-29
+1d3b17fd-a5ee-452b-9b46-c3ced738b251,92527058,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-08-25
+56e61f2e-2308-4559-822c-cb10bfa5668f,92955460,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-08-29
+3e9bb736-8501-4da5-b847-e2560279c6bf,93059576,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2021-08-30
+5a43a477-8f63-4155-b8ed-b7a563a758eb,93059782,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-08-30
+a9233c70-987f-4cae-b88a-8fb6085ea79b,93263081,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2021-08-30
+3e5fdde8-9718-49e3-a4a9-e1082a94cffd,93373283,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-09-02
+d54464b3-8552-49c0-986b-1f4f86dcfab4,93383428,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-09-02
+d8783625-0434-4b39-b05c-e56268ac19e2,93514990,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2021-09-03
+9767ae4f-550a-4be6-961d-484b6fc22c94,93613625,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-09-04
+a35bfd08-865f-453f-aec5-2ef8e164bce6,93636842,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-09-04
+db3ea5c8-56fd-482b-b326-96ba2a6750ca,93637245,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2021-09-04
+51fa9612-1bcd-4815-a527-7898358d5334,95084826,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-09-16
+17527b10-afac-47cb-aca1-23d8a8da3769,95331475,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-09-18
+b3dff0af-8140-4642-bc0c-66b8b56342fc,95468248,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-09-07
+c8cbb920-caf0-4e21-ad44-b4d084d0b533,95678598,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2021-09-21
+0fdb5e6e-5167-4897-ab64-14ddbbe6910c,96972754,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2008-08-16
+d84bdac1-9f7d-4c24-8bb7-29116114b519,97252042,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2021-10-04
+5fbedb26-34b8-4fef-b0c6-964c759c7113,97349286,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2021-10-06
+40e4b653-156e-4f5a-9394-4e107bca2643,98992797,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-10-22
+af3ff4fb-8606-4a3b-8a17-89ee34032939,102236883,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2021-11-30
+974c71a1-8f9d-4284-801b-e0673123021a,103230264,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-06-28
+37bbb50a-29e7-4a99-b686-8ee15208ffaa,103512294,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2019-06-01
+e67516dc-50cc-446f-9de2-677016879c9f,103786484,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-19
+b475f4aa-58cf-4c75-89cf-1a2fcc55b226,106969097,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2017-04-09
+41ec6bfa-3d92-4fdf-ab87-33dbc001b463,107355979,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2012-05-28
+a53711fc-1fd6-4fc0-aeb5-53a756039994,107405397,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2014-03-15
+bcfc56fa-b3e1-4ab2-a743-caf71c0015e8,108054050,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-05-19
+2c880820-c9ca-4d83-a7e0-6a86729c562c,108345953,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2022-03-10
+bbf750f1-1ab8-45d7-8b31-f07411e315f7,108625985,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-03-14
+2451e72d-e768-4487-a44a-24c765734e1c,108758060,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-03-16
+5fe7f32b-ae74-4033-a87c-311a6c4e4ef2,109154389,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-03-21
+59906e07-b350-4b0d-98a3-9c9d213ceec3,109861595,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-03-27
+cc987aa7-0be8-4228-8057-73ae015464c0,110125682,"{'id': 39824, 'name': 'Pseudemys nelsoni', 'rank': 'species'}",2022-04-01
+2f7ac628-0ed7-485f-88fa-ebdede35f1c3,110125738,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-04-01
+2f17e19d-877c-4551-8812-8e0b7e93a9d0,110202169,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-04-02
+b1b8b96c-6ef2-41df-9678-08c0d85ca53e,110361757,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2020-07-11
+483c0046-5a9f-4dae-b768-96616b35553f,110768882,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-04-08
+66718a90-13a3-43b8-b930-d3a1f30512bb,110779151,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-04-08
+0020ed05-a3d6-473d-8daa-c540e216e8ce,111014003,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-04-10
+3039aa22-5a09-4a3a-9113-1594b8494f60,111242390,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-04-12
+7fc5110f-1a0d-45b9-8d79-7dc574a74a3f,111458495,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-04-14
+9662bb34-3c25-41d4-b278-7efce8b61413,112217610,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-02-07
+1cfe3883-9b73-4ec2-9966-f4e990a9eb91,112319209,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2022-04-21
+b93cbd1c-bcb9-43bc-ac82-e4f9a4642801,112581610,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2022-04-23
+5e2b4c30-4b81-4422-b955-520e9b49efcb,112690770,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-04-24
+410c889c-e54b-4a9d-a041-816ace8d198e,112702790,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-04-24
+3a229766-3b89-426a-b92a-742a47bce207,113254508,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-04-06
+49619083-addd-47e3-af86-80b7e3bff43e,113258335,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-04-28
+d5be914e-f24b-4e0c-9abb-650eeb1601db,113692976,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-03-21
+00355e3b-eb60-49eb-9a4d-071710faa2be,114276758,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-01
+a0e12115-06aa-43df-b42e-c8a02d32e14b,114279785,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2022-04-29
+aeb8e5b1-e67b-496b-a66e-a0e7c148c413,114324510,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-05-01
+9e193fa5-8a37-40e6-a5c1-52aa40ed634e,114655482,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-01
+afbb3eb7-621a-4285-bc8e-b992ce61b860,115118829,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2021-10-30
+ecf01745-3c48-4cb9-9d4c-278216834d00,115201450,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-04-26
+a0090d7c-0ef3-47d2-9aeb-35b34c93066c,115465465,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-05-04
+f3142754-e4a1-4e91-b354-9ba07ee1d732,115490551,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-03
+58762383-45ea-4b1c-8ca3-427044f8566e,115555092,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-06-19
+3c1e70ee-38ee-468f-99f7-654401939fe0,115649654,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-05-05
+4fc36afc-685c-4c9f-8013-f8e4472eb513,116352281,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-04-29
+48d30edc-7464-40b3-9a5a-4dd3880cc3fe,116352518,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-04-29
+04d3967d-2e25-40f7-bf55-bdd68a8cd16a,116784902,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-05-01
+4f882905-3e24-42aa-aa90-e9030c9ca154,116901066,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-05-13
+b9602d8e-e14e-4565-b561-ba972c95a222,116901187,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-13
+d1d40b2a-e44a-481a-abd2-aa7f0c30d158,117046279,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-05-14
+69cea8fe-858e-49cc-8559-ed979b9cf99f,117241995,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-05-15
+f04bd105-277b-4c10-91d9-76ac5e9abc95,117245426,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-05-15
+4fe1d865-4e61-4659-81dc-883b03ed9f3a,117342522,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-05-16
+3a0d4cf3-4d43-4814-aa3d-6df6cef66330,117749204,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-05-12
+3c3dca17-add4-4230-bacb-c2d8e029fec7,118083441,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-05-21
+bbe87d2c-05f9-422d-afc1-f933ec6abb2a,118167055,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-05-22
+d47fa804-4e92-4ba9-b19e-b7505de19cf8,119421130,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-05-30
+d5490f14-b152-4c69-b3ce-27947df463ba,119426978,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-05-30
+6b2a094f-e30a-47b3-b540-85db1b5027b1,120051485,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-06-03
+29c1a4d2-afe5-4bcb-a87e-41b1a08dd3a1,120374327,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-06-05
+238d8cad-8d33-461d-bbdc-5308597bc3b0,120528296,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-05-29
+9b62fab6-c8bf-4ed7-bc17-a4368c2949c7,120533337,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-06-05
+9570c808-d779-4e18-9708-94856fb2c432,120654148,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-06-06
+4564f10f-db4f-47b0-88c0-8b3891c911e1,120805001,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-08
+6efbb7d0-8a5f-42d6-b30a-c62cec13b143,120817792,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2022-06-08
+5cf37f03-9d94-4ed5-877d-3b086783d17a,120839473,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2022-06-08
+e008b6ee-6555-4e9b-9fb6-b80a39ba9fe2,120988687,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-09
+dc5bbc17-2ad9-4944-9f33-14c25f85e9fb,121258425,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-06-11
+015890b9-bb5b-416c-b722-db763b027acd,121339017,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-05-28
+f8c9402b-d4d0-46f4-a2df-828fa91be647,121676243,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-13
+468a1f23-c1f0-4011-a259-b8cf6ed2b625,122038393,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-15
+a53bdca2-2dfb-4d46-ac03-36b419591983,122040890,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-10
+44a0ac04-5e91-4b3f-8d39-207a16e4b7f5,122045122,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-05-31
+edb1236b-6b6d-43b4-8047-3b9ae9cd0b62,122194296,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-17
+b8779cf5-8856-4cba-8354-5d850919eca3,122217860,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-06-17
+9f9b046b-3e37-463e-b284-cb9541badd34,122240223,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-17
+2de538bd-0e38-4c2f-a11d-1fbf5752c0a5,122249481,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2022-06-13
+6ae29a8f-95a7-46db-b1b2-b5686464f09a,122669173,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-06-20
+6ffe853b-1fc4-4189-8ab9-f3b4f2abf499,123268630,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-24
+4a2c9796-8833-44ac-843e-a63e4121be51,123275559,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-06-23
+98e4419e-84e1-4b74-9b27-a2868d7f2355,123379536,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-25
+16d6eadf-72f3-41c0-b08b-99fac4a23f67,123961107,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2022-06-29
+5aac5d07-2451-4f8e-a859-c2ccdad914ab,124195360,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-30
+8b46b8a1-07f9-43e7-895c-bdf622756272,124293677,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-06-29
+54b43116-bbee-4485-8dc8-ce272f1bdca2,124950206,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-07-02
+21e52142-a9c8-47ba-bfad-a9695357d21f,124950657,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-07-03
+c26b98d0-29d0-460d-a630-84e5e65f0602,124951688,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-07-02
+8505449f-6a88-48de-b69a-cd5b871067ae,125057540,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-07-06
+b18782a6-e0c8-40cd-a21d-6ade72c57303,125061366,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-07-06
+676a3f88-4f60-49cf-b727-5de86803ea80,125321964,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-07-08
+2ca303a6-093c-49f2-b5ce-643acbe6c10c,126167302,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-07-13
+4ed18403-b9dd-4c02-9c01-414527aea38f,126355154,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-07-15
+9839ce7b-e6fb-4351-ad9e-bda1d874cc55,126367918,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-07-15
+953b7806-fad3-4f50-b3fa-15ccce7795ff,126554242,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-07-16
+634b3467-d40e-4cd7-a68e-c220aed8fbba,127032762,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-07-02
+dfb39a70-36cd-4e90-8bc7-3554bbc34123,127383973,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-07-22
+c7fe0316-4213-4e7c-8259-1de14eebab5a,127384506,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-07-22
+86d70f70-715f-468e-8df6-cbc8b84ba2d3,127784268,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-07-22
+761bdd51-b25d-430b-8a14-c5b27b559f41,127943184,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2013-04-17
+b8337590-a769-4de9-a882-d9cbdf6abd18,128101850,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2016-09-16
+6261c62c-d41f-4298-856e-ade10fe05f77,128157264,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-07-27
+7c9096a2-0899-4df0-86da-9290e219dac9,128157266,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-07-27
+23d662e3-9d4d-486c-9144-95f40127ef70,128193419,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-07-04
+9ecb3689-fd55-4f14-8bfc-1406f608bca0,128193440,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-07-08
+4e57b0dc-3f97-4409-abca-010b36817afb,128207265,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-07-08
+0e8b7299-0cd7-4873-b14b-f6d151a38163,128207282,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-07-15
+a82236f2-fe0a-4d24-af53-2d72278f7914,128207295,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-07-17
+46017ef6-5ba9-4eea-8743-4386e8fe5ced,128225810,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-09-12
+1357811b-392d-4402-b8a1-33d02e166ed1,128250252,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-10-01
+4d2cc7b2-1352-44f1-8938-6b80813047fb,128250253,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-10-01
+76f97a15-452c-44cb-a89d-c73cce8fdccb,128250255,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-10-07
+5b0da3ac-c4cc-48d3-80bb-c59cb8a150b1,128250261,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2017-10-07
+dc9cc96d-b9cf-496e-b37b-f5da3f0c5b16,128258644,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-02-20
+f0d447cd-c8b6-496a-a946-b20338ab8b33,128258646,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-02-21
+4851b0d6-eafd-4b88-a783-d9ee28a676b4,128258652,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2018-06-07
+26cd927d-b400-444a-bf26-8df42bdf10e3,128258661,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-06-28
+92a37551-7e95-4804-8100-decfac1868a4,128258662,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2018-06-28
+40663c12-7377-40a8-aa9d-5d4d5dc180f7,128258671,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2018-06-30
+cc32d10a-1d15-4e89-b51b-8d9a34a6012c,128258672,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2018-06-30
+d32693c2-064b-42c1-b7d9-5da95fe8a82f,128689561,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-07-30
+011bb61a-1d58-4785-8962-97d2541b171f,128693445,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-07-30
+1a14630c-71a3-4868-84a2-4698ff46347f,128696296,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-07-30
+358cff4b-86b6-48eb-934a-19888ba616a0,129710591,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-08-06
+f5e5926f-6ebb-4700-a698-37f5c312a7bb,130775546,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2016-06-12
+12eca737-1b6e-40d9-a6d3-3f68becb4222,130849220,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-14
+a0301119-bbf7-48c3-8d67-a0b45138e807,130868386,"{'id': 39659, 'name': 'Chelonia mydas', 'rank': 'species'}",2022-08-12
+f268d24b-b317-4fee-9b52-7a933bc53727,131743834,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-08-21
+df205b96-bcff-4356-90b4-a6e04deacae2,131752683,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-08-21
+0adcd1aa-8ae1-4a9e-b482-33e8c2e06af0,131807767,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-08-21
+345649df-390d-4dfa-ab1f-d5a49dfa934e,131942217,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2022-08-22
+31bf6745-6bfb-460a-9657-de696a96113c,132301977,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-15
+3b7cca95-1cf0-4795-b6dd-4b594605b3cb,132355146,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-25
+3a037703-3f5b-425f-8c0c-bc244fce2391,132555253,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-08-27
+4be47bff-c33d-4ef1-865a-4a1c68082dc0,132685480,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-08-28
+d997dcc8-eca2-4256-b270-7ba9132f0ada,132686105,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-27
+812266ee-06c9-49d5-ab38-f73038149bf3,132690304,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-27
+f11dbcfd-b875-48c4-b6d9-fc91863b1246,132710574,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-08-27
+e3aebfe3-b957-4dc9-89c0-8af4eb40d69d,132763103,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-08-21
+c7995ad7-6617-4541-acf2-84f3f1074734,132770372,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-27
+9f8eb501-6064-4199-b5b2-b88e5a870abc,132771026,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-27
+1a6fb60d-a37f-4b0d-b8f9-bff4274e0786,132776322,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-27
+dcdb1628-d96a-40cf-a93e-af2b03a936f1,132937240,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-30
+11624812-803b-40e7-89ed-0cf69dfa4810,133091514,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-29
+f3cd332c-c55d-4005-b056-6ccbf99c4d65,133096692,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-30
+12d03ddc-35b6-4caa-b1ea-81a2e4158fe6,133273663,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-08-28
+eda6d60c-7230-418d-8dd1-1fd9f7a57dfc,133461795,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2016-08-20
+402787c9-2df3-4aab-b74a-fd096f219539,133526237,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-09-03
+db95227a-2583-4945-86cb-b10a20cd5044,133718658,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-09-04
+13be333a-bbb9-49ae-a888-343ab3cb2d2d,133827859,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-09-04
+2ad0464f-2181-4016-98d5-0244a3ccd456,133833609,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-09-04
+b48c076e-df3a-4e2f-8847-bbad4a937b53,133833778,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-09-04
+8f19f20e-2868-48f9-bc45-7b3a10a67cc7,133834072,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-09-04
+2096672f-9fc8-4337-9f8f-6c2b64e31be4,133835355,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-09-04
+00d69848-50a9-47c2-b83c-45bf624da71a,134152488,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-08-27
+68097cd4-54bc-4924-8a67-74b71a44afc7,134364989,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-09-08
+9888f5a8-4fd5-40f3-b6a0-6d30eeea3c73,134574098,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-09-10
+471991e9-1707-4f0a-a075-35c2bbf7c79a,134877878,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-09-13
+bf013508-d308-4962-a968-c1c702eb2a56,135049665,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-06-06
+766097f9-bb4f-4b4b-857a-df9b5893b0b7,135058325,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2021-10-31
+5217360e-0cb0-45c8-8dad-6690a2a9ef79,135082617,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-06-24
+6a689fae-2048-433c-84f1-c9b266923e9a,135246005,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-08-21
+c4d1bd3f-e767-4376-9f5b-844029962bf9,136581939,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-09-26
+339dd155-3450-46ec-8240-be027837ea2b,136613355,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-09-26
+de49ba52-8c53-4174-a3cd-ba147fbe06a9,136623488,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-09-26
+a49488c6-132d-4af6-a8de-2380e5235616,136645400,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2016-11-02
+a7bdfb37-435f-49c2-88bc-9433de1c4f9c,136839582,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-09-28
+8fd1a45f-280f-4cab-b4d9-db295c79b880,137770973,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-10-06
+3e74c2e9-f1ff-4963-99e4-c01900c884f9,138194494,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2022-10-09
+abca05be-c7cd-41a4-8982-72a60a4ac2d6,138417546,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-10-11
+c1adcb73-e227-4d4e-b13d-4e08b4d9308f,139992441,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-10-25
+f7335244-71f4-40c0-9ab8-94fdd8ab5ed1,140030283,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2021-07-19
+0f35c238-c958-4968-b47d-160cfb383d4d,140099287,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-04-17
+da01fc6a-684c-4daf-8cc4-18f75036ddde,140158594,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-10-26
+c2e0995b-25ac-4388-a09a-9b2a9c5df80a,140158830,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2022-10-26
+cd3c71bf-7b4f-4f4a-a74f-daa41d40e359,140397885,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-10-29
+f07d0c11-84d0-45e3-8679-8f961cfe6fbe,140707350,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-04-17
+9834cb58-c67b-42d6-9850-7ac53626c499,140732825,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-08-06
+8ac37e0b-4783-414c-b728-9608a3476cc5,141077262,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-11-04
+4e10c560-9878-464a-8e12-23b60d1a859f,141096063,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2022-11-04
+efdeb816-21d6-40af-b1af-d45d35f9a6c1,141227008,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-11-04
+a04702c2-2bf3-4ab0-9d36-dcbca8fce364,141319946,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2021-05-31
+1a10b232-e9af-4784-88c9-db6a06525f15,141321903,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2021-07-27
+dd32a48b-6dd5-4e69-9ab5-ec9675ec220b,141563827,"{'id': 116461, 'name': 'Anolis sagrei', 'rank': 'species'}",2022-11-09
+a30ffda5-ea8f-492f-a2e7-1acfc63c2f05,142334413,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-05
+f0197788-6aad-4424-a58d-bb8c40a6edec,144252455,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-12-12
+2c175300-71ec-4750-98cf-dec7b93ae66b,144640350,"{'id': 73844, 'name': 'Lepidochelys kempii', 'rank': 'species'}",2022-12-18
+de162953-1c87-4251-8386-d04d31fb9ad1,144963068,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2022-12-23
+0e1b5993-b66c-400b-a988-64f45c8bb89f,148408541,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2017-06-20
+6e9d7faa-1d58-4849-8bb1-6aee14071002,150982687,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-08-18
+10b619e9-fab5-46ae-bdc0-a4857a734f5f,151132147,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-05-22
+9ec548f1-a962-4d1f-a598-89395e9832a6,151174315,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2018-09-29
+c137bbf4-2188-42dd-a377-7697abcd0e24,151625672,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-03-19
+7929dc19-3cc4-420b-b69a-1860f23bfcf5,151837150,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-03-21
+ed53c93d-a2e4-4bb0-b68d-43dcad01375c,151881783,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-25
+f2efb29a-a3be-41b7-8947-fd7956baec39,151951040,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2020-06-28
+51af17f9-e58d-4fd9-a2a9-2e6ab069a936,152676176,"{'id': 116461, 'name': 'Anolis sagrei', 'rank': 'species'}",2023-03-27
+a816e246-8bf6-4d4d-a7f4-95f2641af724,152854390,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2022-07-03
+1fba2f54-05bf-482c-b47c-159db14e94a6,152892366,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2015-04-25
+04657b90-634a-484d-a47d-741d3241e155,152942003,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2021-03-16
+e8069740-91ee-45cd-be1e-b312d75ae912,153091367,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-04-01
+387f5a95-f273-45d3-be06-0eb27f245740,153253434,"{'id': 797544, 'name': 'Deirochelyinae', 'rank': 'subfamily'}",2023-04-02
+99a6b1fd-d755-4985-b6d8-45b86c636b23,153259796,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-04-02
+605a1f5d-1c43-444e-a132-99899c6bf051,153497952,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-04-04
+1556d268-3a44-4cfa-b78e-4e7f909295e9,153709423,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-06
+e2938685-9192-4b7b-9b79-8e42110f990d,153951798,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-08
+cf95975d-0d14-4781-8bfb-97ee89b8ff5e,154024770,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2023-04-08
+6df52f40-cadb-4275-b01f-0512c16c768d,154134906,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-04-09
+b4c176ce-8f32-4d16-9952-d3b683903bd5,154172919,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-04-09
+c3057aec-f5a7-44c8-aa0c-a0095495167c,154374010,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-09
+96895024-641c-4fbf-ab67-a7f52ffb37f7,154374885,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2023-04-09
+f5ffbda9-9fc0-4fdf-a71c-62fee9494ffe,154648665,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-04-12
+b65a5aa3-d4ff-4caf-9838-5b845b082c56,154719056,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-04-13
+3b349792-6982-44fc-a490-b00afc66edc9,154873620,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-04-14
+30c5fc7a-c00a-4932-b46f-6242dd6a143b,155100771,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-15
+5f57e2b8-e42e-49e0-a239-040aad2e2f04,155263760,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-04-16
+5e9cf618-303d-4a7b-af34-2fa35d078ee2,155521607,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2023-04-18
+4f9bba4a-466f-4834-b13d-3a9bf0c65e0b,155641569,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-02-21
+7b145e03-eb73-44ff-844a-f64b288a15db,155776271,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2023-04-20
+4bc246e7-4226-4230-b1f4-2866200832e7,156151290,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-20
+f4cf1c0e-0547-4c2b-8a31-05e25b0d4505,156346205,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-02
+292d7260-93c2-4aee-957f-b0114cd76fe9,157253087,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-04-28
+c7061d93-5222-4cb6-8b6c-d88f612d25bc,159365498,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-04-21
+a5c66911-2832-4f2b-ab54-c51587d11446,160466378,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-05-07
+14e73fd7-42a6-43fc-b509-fbb064b4a520,160861243,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-06-16
+3cb788b1-9301-4eda-8065-e9627396aad4,162117220,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-05-16
+da4dc03a-9def-4928-a631-e2e1441663d1,162221818,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-05-17
+9fecb304-e39a-456a-851a-d7ab7d2a4435,162442647,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-05-06
+fe0ab96c-0d4e-47e4-957f-5dc88fcc03f5,162894750,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-05-21
+be891aa0-2a41-408e-8383-593ce989ec91,163174518,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-05-22
+46aa6c7d-677e-4663-aa5b-f7981d5eb09f,164004617,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2023-05-27
+f3293099-7e47-4976-84cd-5dbe1202ab39,164053754,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2023-05-27
+6b48ce79-5dce-4eff-a3b9-802f2017253d,164265839,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-05-28
+cc7d36c9-12e8-46b7-bce6-9e40cdd4832d,164672751,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-05-30
+6ecb95cc-9359-4df1-abad-40e7275f45ae,164815239,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-05-26
+8bd6c3e6-73c8-47c1-bd7f-135ce4a73f43,165425842,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-06-03
+a185f2ad-c950-49bd-8c86-17c1c8f17e46,165524952,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-04
+2ea12e22-e730-4e2f-a389-dfe43c305113,165646152,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-06-04
+f3e10e4a-aff8-4c6d-8f25-3c107e0e7c3e,165797167,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-06-05
+c72c0e5a-5b00-4bf1-b97d-51df3363cd57,166083010,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-05
+e17751eb-a8eb-4b2d-a5cd-09efdd7fa9e9,166128571,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2023-06-07
+5c3f28d7-5132-498f-9216-1d87f5bc93a2,166602674,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-05
+a25cbb6e-156a-451c-9147-616619057ef1,166636471,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-10
+62042a67-e664-4a65-adc4-1f3c083fbc12,166679425,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-05
+03c1053c-6293-4b5c-9bbb-42da73fab7a9,166805782,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-06-11
+b8c49529-8c38-42ba-a7a7-33ce92339a81,166850563,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-05
+4b92e94b-6482-4725-9bff-09c966ba72b4,166863734,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2023-06-11
+ffe7986c-9d3f-425f-8f2b-ecc52c20fff6,166911126,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2023-06-11
+1315735b-17cb-4d65-a52b-893cd0fd75b2,167090487,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2023-06-12
+bd6b88f6-0280-463c-ab06-b20a3ecda38b,167269408,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-13
+828ed6ac-f7c7-4d80-87e7-1e115e2e0bc7,167277460,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-13
+88a06bde-69e4-4001-956e-3278f1e1c81b,167313479,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-13
+6a4f1b17-574e-4438-856a-8dd25a1ec0f3,167418092,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-05-03
+5ba85280-cb03-4752-a0bd-bfbd8529825b,167425592,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2021-09-25
+36e31af4-3e81-40c2-b422-dd79542e1f91,167474440,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-13
+7dcf86a5-83bf-4834-9292-53f2ecbd7953,167474788,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-13
+79dd21af-ea94-4c3a-a826-5ecb18c92be6,167474903,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-13
+2828a9a9-9f06-4226-aea1-514e523b0c52,167597989,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-06-15
+b667117e-bd32-4257-bd73-ed3c0e288080,167724981,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-06-16
+b0262e75-c7a2-4c56-a9c0-8946044e7910,167762041,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2021-06-19
+9e11bf35-bd7f-4156-bc33-9713e0070e2e,167805469,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-16
+b17bf8f8-f414-4bd6-afbd-f95628bb8996,167938418,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-06-17
+2a77820c-321a-4193-bf5c-685bdcf2a3f9,168208592,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-06-18
+a8d492ff-51cc-4d57-8a0a-93600d8ccedd,168316166,"{'id': 36514, 'name': 'Anolis carolinensis', 'rank': 'species'}",2023-06-19
+180e14a9-5605-4128-a0f5-56846654aa8f,168324754,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-18
+c9a16982-65a1-45ab-94ae-627bbb1f12e4,168669349,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-21
+0b9e674f-9ad9-48e3-ae4c-a42647525504,168833441,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-16
+f56ce028-89ca-4891-8a0e-31e17b2cdf77,168945555,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-06-16
+8faa8efd-2bf8-4400-a0a2-088e9bf8c361,168946051,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-05-24
+782de5e2-145d-48d5-ba19-cda61dbc17a4,169077180,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-06-23
+32d80989-66dc-4544-be09-ea9edcc1ffa7,169234695,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-15
+d709d54c-02e3-4cd8-ad0c-88e15f0838cc,169237087,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-23
+44a18e20-d972-4ce5-8b75-fd81a15d58e0,169446213,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-25
+3f79d889-19fd-4af3-bd5e-1a7d7c51f18f,169574779,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-06-26
+63c06b0c-231c-4e93-9d8d-c3ba23495f6d,170036032,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-27
+20675f9f-5c3e-4e6e-a857-076a60615881,170051575,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-06-28
+0c532969-ab09-48bb-8e12-0a3d2cb906ef,170193755,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2023-06-29
+b06daf8b-133f-483a-8c83-85161a071f76,170201629,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2018-06-21
+67ea5780-342c-48c9-a476-6e1057083077,170201630,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2018-06-21
+0f5b6e00-bb52-45f5-a6eb-62670a6cdd18,170201632,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2018-06-21
+ad45aa73-755e-4890-b6f2-72009bcbe093,170201633,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2018-06-21
+19fdb78a-0b91-496c-bd3f-4d107e0a43f7,170290050,"{'id': 26575, 'name': 'Diadophis punctatus', 'rank': 'species'}",2023-06-30
+34988e7c-c5f8-470e-9e63-45b3156d7206,170303706,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-04-06
+f3c83156-999e-4ea2-ab0d-7727059e967d,170514921,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-07-01
+982f235c-99dc-465f-88d5-d47aaf90f499,170637648,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-07-02
+7a4c8f29-c0a3-4899-bcec-2ccecca38502,170639104,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-07-02
+4b2f03f1-3a1a-4d87-bb13-dac43990fa1b,170639448,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-07-02
+9cace19e-3bb4-432e-aa5c-4a191656cfbc,170777183,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-07-02
+719c1d79-a7b2-46f0-ab5e-1fc6ae62c11b,170788683,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-07-02
+053b726c-6b35-42dd-8188-9012b2da2542,171204998,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+387d48ee-ff54-4c6b-9ef7-aafc8d523ec7,171205012,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+c851e6ad-4b38-487a-aa46-11b76fe70bbb,171205013,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+7bda3923-3f43-4a52-890e-4140b4489026,171205015,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+4f4d0662-496a-4efd-b587-01876b7f64d5,171205017,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+6d2ba52f-e5f8-4df1-a66d-a906af42d185,171205018,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+ba54413f-0f68-49e0-949f-ddac21605108,171205020,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+40b089fa-7267-4a99-aa70-d557730ba709,171219639,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-07-05
+dbeedd7a-6847-469a-afe9-20b0423105cb,171226995,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-07-05
+4ab2a089-7bf4-43c6-a539-a4e6cbb88d52,171259799,"{'id': 36514, 'name': 'Anolis carolinensis', 'rank': 'species'}",2023-07-05
+710e7879-bb2e-4928-95e0-813e1d463ca0,171328639,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-07-03
+915af4e4-8a78-4c4c-a9f1-034bc1344bd2,171330653,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-07-04
+551fa681-0045-4831-8b90-3d1ed6f50f31,171330674,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-07-04
+9886be4f-2a09-4bd0-9eed-14060205de67,171442835,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-07-05
+131d5a94-3083-4279-91c2-40ea7e4cdc58,172580312,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-07-10
+171ecde2-1ec9-4a1a-b9c9-ecdd9cf55068,173242264,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-05-11
+78dbd50a-bc3f-4754-a7ae-58a090183215,173256337,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-07-08
+7ed66ce8-d4ed-487e-bc0b-b9a2fbcb3a36,173415406,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-07-17
+25e23f5d-eec4-4895-a136-977c94c0c3b9,174630129,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-08-02
+9483f2e3-5210-47f6-b96a-39a55e9fe02b,174630585,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-07-03
+53cee724-0b73-40ab-b179-efdc32601464,174631265,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-06-13
+32cfb50b-1c24-4f97-bb8e-6be5f07deab2,174631421,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-29
+c3ff2940-865a-4196-b099-5785ba051e56,174769420,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-07-24
+f64e0ec0-5ebb-4a93-87a0-ef7b71f10de8,174800416,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-25
+7cfda9b7-369d-42e3-9552-b591790a339d,174800709,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-25
+557f8786-8782-49b1-ac5e-1de0958127cb,174883747,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-07-25
+657f2745-15be-4ebf-a89b-4f1d6aaab074,176026195,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-07-31
+df807331-db1a-40ee-8d2d-5291fd61b57e,176669994,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-08-04
+fe8c0100-7cf4-4038-af9f-2db1474d3f4e,176671421,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-08-04
+c19a9965-3a5b-4d99-8ac7-95f05862e160,177455743,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-07-20
+d0d72cc1-c562-491f-881a-59f41de7b817,178273778,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-13
+86a8f678-34bd-4619-8c9a-fc703d70754e,178727632,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-08-16
+22a3db41-8a6a-48f8-ba44-281955f7c362,179071801,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-08-17
+772e41ca-0135-4036-80b1-20a3b9fda5f8,179072407,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-08-18
+60fea8f6-aa9e-43be-8bed-42ee9bd8b926,179076057,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-08-18
+76f682de-6187-4b2b-8437-de857fe34467,179382618,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-08-19
+ac98924f-fa9b-48f4-acc2-7eb6c42648f6,179454721,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-19
+c3e93728-c0f9-46a0-abf1-2a83d9231b7c,179455879,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-19
+70e73a5d-6405-48c9-90a7-25ab8af39e25,179582769,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-20
+a7e5e7d1-b547-487e-9348-5a1c946693db,179883070,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-06-25
+b5eab753-e41c-4323-b595-384249fbe750,180810099,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-27
+5d0d95e6-ca2e-4b9b-a19e-97176c9036b4,180812235,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-08-27
+296126d3-15c3-4387-b8ed-22c40f2fde19,180812490,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-27
+fc41f6ba-ece3-430b-9e87-e3b6d57a3945,180812569,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-08-27
+0de598eb-b07d-4065-a613-7766a1704a79,181075703,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-08-31
+a3e12311-2cb5-4e66-be10-413cd2284bb0,181075814,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-08-31
+4c72bac5-8b8c-4efb-ace4-c6e39642de11,181437829,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-09-02
+52ceed94-e77b-45df-a416-6e9fe8718f10,182272630,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2023-05-26
+61cbac6c-7547-470d-9ef7-cc9547e42c29,182795409,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-08-28
+de8c730d-86f4-48be-94c5-feff1d6b5709,182795551,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-08-28
+919e2e92-be64-4e14-a092-f2afac4cd128,183014143,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-09-09
+67868aa1-ed55-462c-ae3f-94d851da261f,183523294,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-09-16
+e1399f2b-9c1a-40ac-8235-66362d58d905,183556768,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-09-16
+c1d8ffd2-3517-4d8e-b2e6-2c46b28f6bcd,183745559,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-09-17
+c0e9ad38-b6e4-4268-88ea-78a4d66a77af,184045913,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2023-09-19
+e4d7f3ec-0344-473d-8510-378f82d7e4e8,184201407,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-09-16
+98799915-77d3-4912-b0d9-a59036e2358a,184373188,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-09-21
+e9b43763-c2e5-40f7-9659-03292bae061d,184373476,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-09-21
+a6c7cc75-23ee-4de3-a1e4-5ba25d6f97ee,185319942,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2023-09-17
+e76ece93-495f-4f91-90f2-991b6ce2dd8f,185414222,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-09-28
+e62872c0-b39e-4730-bb06-815b3e3515be,185672912,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-09-30
+d2b6163f-5eb3-476a-b2d5-4d18f44b824a,185789323,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-01
+1b64e7c3-a994-46e1-b081-9717b58d87f8,185831484,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2023-10-01
+db29991a-4ce1-4c79-b927-a4ff26091f52,185914171,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-10-01
+7a28596c-4556-4c76-9061-52982af5444b,186080219,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-03
+bc36c3c4-fb33-4fe3-97d6-a052753db381,186180741,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-10-03
+4e8d5f7a-432e-422a-aed8-6a74e9e43486,186327795,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-10-05
+ec3cfb73-7dc5-46bb-8af1-6057f4973d20,186438972,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-10-06
+2c3fdf7a-86ad-4888-8dac-f8b6c63d422c,186439247,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-06
+253b4e1a-3e7f-4e18-ab10-f3b13e4104d3,186947194,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-10-09
+f1bf4d07-bf0c-4dd3-8b19-4b671965305d,186947208,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-09
+2041e1b7-41fc-43dd-be8f-827071023dc9,186947214,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-10-09
+a357a818-8760-4cc6-ab1e-cd490d12c0f1,186986224,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-10-05
+34203651-119d-4fc4-b6e3-77662fbb1310,187189285,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2017-10-29
+4da0b862-af32-4b58-9d47-66743deb5398,187920032,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-10-17
+6637974d-b936-4dde-8c54-ec202204af5c,188249207,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-10-13
+bc6aebe2-608a-40e7-964c-4eaf1dfd2401,188302852,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2023-10-20
+6eac1486-4222-4208-8b68-d8eb9ae6f916,188959179,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-13
+3011ca33-4f68-4de6-8e50-a7e6e922f1e7,188959180,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-10-13
+ca390cc0-b658-482a-8548-666dfa4c3689,189150785,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-27
+73457089-28ad-4f8b-a397-958102f4b214,189366840,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-10-27
+cd615c10-230f-4af1-87f6-32b82e92136e,189973164,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2023-11-04
+335cbf8e-878e-4faa-ac94-7423684f677a,191102158,"{'id': 39830, 'name': 'Pseudemys concinna', 'rank': 'species'}",2023-11-15
+d493a3c5-e95c-40bd-96a8-71fc98215021,191109194,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-11-15
+6866f196-1c09-420c-b084-8d0e1736be9e,191500268,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2009-07-26
+5364ecc2-6fe2-469b-8963-360d5885d99a,192870089,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2023-12-02
+a9036970-f5ef-4eff-b4d9-6fbdd9cd4f54,193575604,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-08-04
+b3cfbc7f-89ce-4dfc-b0c9-1c915bf69d1a,194677816,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-04-13
+9b950bf9-fbe5-4917-b73a-e9e41a2fbc0e,197717454,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-11-14
+e5ffe06e-8f49-41ba-b70d-9eb27a4dbec6,197726978,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-09-15
+d876ed01-b6b9-4883-a45b-980a1c831f96,200127948,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2022-06-24
+43b24fed-2cd7-40ef-b6b4-3a3d7b28f37a,200764890,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-28
+65d2bed5-9894-4621-b5db-e37a91aaf2dd,200848582,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-04-10
+d9335667-b402-44ca-9b65-c41f48b377df,200849929,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-03-18
+299c3525-0042-4496-bfb7-040bc6a95fb1,200853924,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-09-14
+9608c537-66ce-4196-932e-45dc9b796cd9,201502605,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2022-05-12
+b6ff1237-2ec8-4299-aeab-7c76d6f29700,202491589,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-03-14
+ef0b984c-2ea0-4e23-8a46-1d1bc5ad1715,202597409,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-03-15
+21e78e54-4de2-4de5-88df-01cfa5fae99b,202604129,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-03-15
+a57f0092-0213-462d-86bf-b186ddc5740e,203433752,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+a6f71f56-12ce-4d0c-bc83-8f4043510079,203433897,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+dc6f2547-a703-4afe-bd70-2bf84d367289,203434144,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+e527009a-ed10-413b-9c1f-0921108e0266,203434356,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+8cdcce34-d9e0-41f0-9702-5a9039a16867,203434398,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+46f67f1e-1cdf-4aeb-909b-763df64f8527,203434442,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-14
+13282326-1d10-4669-8e3a-38008fcf8d5c,204639196,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-03-30
+ffffc804-dfef-40a5-ab81-b53ee923a7fa,204763350,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-03-31
+2f752e48-8f5d-4ac5-a80a-54bd7294fa87,206338180,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-04-08
+d77fec95-1caa-4550-b99d-08e2744b720d,206612041,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-04-10
+156550ad-ed20-468a-b3b4-75eb6ccfd706,207495411,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-10-05
+78c7143d-71c1-4904-bda7-22a0eaf0a78b,207776780,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2019-06-14
+babe5353-4dc4-4953-b343-eed6b764fb75,207969145,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-04-15
+d27ed813-c111-4e8a-9d6a-8897e73e56c8,207969415,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-15
+b41606d7-07cb-438e-a134-35ec39b6c1af,208257937,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-15
+14810a5e-cf8b-45ed-9ea5-ef35a5e7f732,208983480,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-04-23
+f1f03705-f361-4403-894d-12f48a174834,211693664,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-28
+5c047d17-9a5e-4e0d-aeeb-3f3a439183d0,211848927,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-29
+5e45e5f4-1574-4962-adea-548f8532ddd5,211855960,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-29
+60b6c80d-2fd7-48ea-96e1-d19aec744c7e,212300008,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-04-28
+629adbf6-20d6-4e56-b899-2f9bafbb4761,212470305,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-04-30
+dc7376ea-5ef9-48e8-b157-f3e1cdeefbbe,212470600,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-04-30
+abc2c536-a7c1-4f34-ae60-e5910a872960,212658234,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-01
+cdcb7b04-23a8-4b20-ae4c-90a2b406f4b5,213394939,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-03
+91054ff9-5c2d-450a-bc19-ba52a13109a5,213468985,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-04-20
+0626018a-71aa-45b9-b058-12f8945ff455,213775851,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-04-30
+4dad95c9-a895-4fea-8881-ca0a25a7f059,213778168,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-04-30
+bc57db15-8035-46de-95a7-ae51236190f7,213851297,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-04-30
+322e8971-dc74-4217-b4aa-cd91ef8da6c9,213851644,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-04-30
+d7090aff-d509-4a68-abe5-5f3a937f69ae,214047811,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-06
+f66f14a0-8110-4758-92b3-22bc6425d9d7,214340891,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-05-01
+953ce4bf-92bb-4c27-ac8b-5c4314c2a9c6,214393512,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-04-15
+2b528b08-541a-4f12-99ea-df4bd85e99b9,214872358,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-01
+499b3ebe-c4e1-4ee6-898a-3f394286d884,214872899,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-05-01
+63b24d6d-2ae1-4fc3-88ea-3da2b934248c,217065149,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-20
+d0d2d2a2-0037-4c6c-8b09-b130fd2c7bdf,217473657,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-05-15
+221c3230-4da3-460d-aa2d-277c3ea90248,217751325,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-05-23
+56c3fdcd-f9e0-4bf3-a8db-fbb5af7c4327,217883325,"{'id': 26575, 'name': 'Diadophis punctatus', 'rank': 'species'}",2024-05-24
+0ffeced6-5ea3-4268-9f22-43904753ceb5,217944643,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-05-24
+f312ed0b-4f3a-4099-a16f-c4745135cf4a,217979985,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-05-24
+d7f11ffd-f7dc-4bbb-8ef0-81e623db1856,217982117,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-05-24
+6c753d79-8276-4228-9527-297ecb7ecddd,218574173,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2018-05-27
+fda5a62e-d95a-4d87-abef-1e16730f5707,218632164,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-05-27
+20d32ed1-2c63-44e6-a87a-b914975bcc97,219038088,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-05-28
+25e6235f-9ca5-4d78-b2cc-0f8a73ccd69f,219328207,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2024-05-30
+e491f011-858a-45c1-9f72-544c1bd2158a,219426979,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-05-30
+625c2eca-a8c2-4a73-b85f-65497752a4bd,220152232,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2024-06-02
+6403d078-ab60-462b-9227-f9881947774f,220238318,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-06-03
+90dceee9-8068-412b-bd7c-71d4f3aba661,220341864,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-05-13
+a682778a-e27a-49fc-905e-e641282380c6,220447609,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-06-03
+5e95b9d8-4df9-4689-82a0-c11f99d26b51,220585552,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-04
+b860a7ed-f029-4830-a2e1-c6ca305d65de,220959055,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-06-06
+96fe45cc-ba8e-40eb-ba9a-8354d8883c37,221010323,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2024-06-06
+8ba1e292-bc38-458d-97ff-e8ec6392abbf,221012031,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-05-27
+5a137f38-1c06-4ef9-a323-9e1d8915b386,221178188,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-06-07
+7fb38a7a-4e3f-4843-9df6-1aedb434f0cb,221196012,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-07
+75aee922-d480-4f27-9843-87e0667b6838,221378522,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2024-06-08
+85c38dfc-eed7-4b23-b076-ed5eab326113,221617415,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-07
+f53234cf-b7db-434f-981e-0a36a6aeb5b3,221664495,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-06-09
+4d8feedb-7834-4bb9-82a0-0ec7a1c0fe3c,221692483,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2024-06-07
+a29c04e0-5a33-4240-bc4f-76b645456cb6,221692490,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-06-07
+59625770-4a95-41bc-8b02-cb4275193537,221692544,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2024-06-09
+db1cefa0-9886-4f5c-9a6e-e05cfeb7be7d,221717451,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-09
+f2fc81ce-c059-4385-b572-36cef26676db,221803304,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-06-07
+b8e87a6b-766c-4d54-8183-412a83703dc1,221873538,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-06-05
+18f94484-b769-485a-bbde-eeb7589795ff,222128878,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-11
+6568d487-7ad6-45c5-815b-e4ee15a7753d,222490977,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-13
+ca3dfdc2-09a1-4621-b4f5-5c6890b40611,222836467,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-06-15
+5cbc6b82-4e3e-4ca4-9203-d27ad66a5f9b,222866778,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-15
+72dc597c-e7e8-4dfb-bea0-467cdacc1920,222868280,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-15
+89882081-5583-4b14-8ba9-1272a38544eb,223111286,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-16
+59adb0b4-b6e7-4d82-9279-85fbbf158a7a,223149805,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-16
+d750edc0-1ce8-4e8a-b1fa-58b096ab35a0,223186870,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-16
+0ac46e5e-b813-4206-8a59-a0d3622ce3e7,223340866,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-17
+ff2c136d-a46a-4cf4-86b3-297fbd93d40c,223424597,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-10
+3866e5a7-645b-49e2-ab5f-55d4fbee2b22,223440544,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-17
+952ff29b-c831-4a32-8ab6-247853bfca14,223440663,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-17
+2faf7b9c-954d-41cf-9379-a10b11e13274,223563440,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-06-18
+90c6f22b-03a2-4a7a-adf0-69475f2f39ed,223980819,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-20
+f7231123-6607-4748-9d3d-e9cd36eab9fe,224306748,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-06-20
+14181c24-b93a-4fa2-a85d-481fc46b2190,224761496,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-23
+b94d0c8d-e427-4b99-add3-3f7142499bf3,225352396,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-26
+7642dd47-8ccb-48de-ae0d-82519c5128eb,225419708,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-06
+9a6bd72d-e26a-4193-9526-2ba06ee40327,225419710,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-06
+1553d1ed-3c66-49bb-b08f-0b00ddc8d557,225419713,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-06
+1c597c30-29ed-4b0d-a0e7-e15a9157e035,225419720,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-06-06
+e4baf77e-d7c6-4c28-afe3-70183d5fc611,225424616,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-07
+7ab52405-a386-4598-a385-e58b442d217b,225749587,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-06-03
+95e75d37-2bf1-4c7e-9a61-0ab811bec3f1,225990018,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-29
+0e8996c7-2153-47c0-a6c1-241dabc9c61d,226110473,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-29
+13a4b7b6-bafd-41ef-aa5c-607ca9539e80,226817391,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-29
+a37430f4-a8e0-4096-be36-8643c831cbea,227026064,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-07-03
+6433b82f-e00a-4562-a5dd-38bddc028f55,227082942,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-05-25
+e06ee484-ccbf-4b44-8224-93a62e371c9f,227227970,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-04-26
+8aa86614-ba14-4356-9009-d7089e446f59,227263779,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-22
+0b97e316-7457-41e1-89dd-c7701a6640e3,227600979,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-07-06
+fb89a8a6-c0df-4fbe-a81f-7feb7d749524,227903874,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-07
+de5b52de-37d1-4df6-b532-f9f3db3aa872,228133111,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-27
+89b47990-85ee-471d-ab5d-e4be772bfe9c,228140225,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-03-10
+1eea05ae-80e9-441d-803c-8395c7c8997d,228341716,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-09
+d3c08838-0644-4d1b-887a-022c8d8e0761,228429777,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-09
+41af7eac-1ed0-434c-b018-45d96ea70c6b,228540169,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-10
+723f1821-f88f-4d26-8d5c-d4c6ce4f4ae4,229138196,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2004-06-10
+373f1c4b-3889-41c5-ac3e-e4400be1b8d4,229142049,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2003-06-15
+5ae97193-b361-423f-835f-493ee6405766,229370257,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-14
+e6470827-f127-4772-972c-d56bbf3ce18b,229413437,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-13
+8e73fe02-38b7-43d7-9516-57314974cf10,229503870,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-14
+e68a043d-2af5-4023-87f4-85cafca612ed,229706367,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-16
+9787bb6e-f2c1-4f5e-8f28-e57ee5f6d0ed,229706945,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-16
+f2c9b9e7-bf1e-4771-96dc-c4a444991f6d,229789535,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-14
+bdf7a69e-46be-4662-b761-b812512461ec,229916626,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-07
+c1ed01c6-5ec8-4270-be4d-221012e91f2e,230025873,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-07-17
+82550a35-a297-400f-805c-2df2a6ff1e6f,230208206,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-18
+05e7f09a-4d2d-4d15-8e18-3bb3114f2cb0,230208252,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-07-18
+6a27a685-18cb-490b-817b-5ed6e67d4496,230208426,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-18
+f0583dad-037a-4138-bd15-b82527c20b55,230640718,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-06-29
+12351a9f-d808-44cd-aad5-ee42097c7b82,230642075,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-14
+890695c4-7ff7-4abb-a1de-8a15b928f7dc,230892600,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-07-17
+1b8a40b8-61c2-4a86-ba7e-9f5945dd7577,230996976,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-07-22
+a645d9f9-359e-4a8d-aab5-3cffe895f5c6,231228156,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-07-10
+ae81f58e-b569-45c8-b370-68810372b05c,231288514,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-23
+a45e0d20-cea0-4dfd-a576-9555fc4e90a5,231714739,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-25
+040bbcd0-390f-454a-9def-eed5a42e8cee,231715602,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-25
+53389f19-df77-4ceb-a502-b0dab7d5c3eb,231724080,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-25
+d23c1fe8-59ca-4cff-9b22-1703aa292cfa,231837782,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-26
+7a85f967-3056-4be0-8b5f-bd51f027c0dc,231901048,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-26
+94dc3428-7475-415a-8dbd-44be28c62c26,232380959,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-04-07
+4d8cdbb5-ce76-4fd7-89b0-ca92db48de77,232516002,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-07-26
+a733761d-87b5-4b33-aa55-b59a570a747c,232567355,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-06-11
+50857092-1542-4f35-815c-9a8a291cd5d2,232634270,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-06-11
+5c6ad5ea-22c6-4cbc-a4a6-347da347e89e,232703575,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-30
+185eefec-cb2f-4093-8945-a3968e8360aa,232703643,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-30
+1e47c22c-83cc-44b3-b49d-057e318055a9,232703709,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-30
+ac819beb-23ae-4701-8f72-3ba60166d353,232720723,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-30
+6343fa24-0213-4275-8ff5-9ceda8c6c2c4,232968429,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-07-31
+864287c6-1027-4363-822a-1df6a7251814,232989506,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-07-31
+a0aa42ac-fd17-47b7-aafa-8d33ae94cd4f,233080270,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-22
+d6bb1594-1e45-471a-b513-2efc389495b2,233194895,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-16
+23767a89-6d60-4ba2-8dc0-e9fe3fd3b233,233849494,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-08-03
+200714a9-6c4d-454e-b373-ffc753d0db62,233850177,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-08-03
+c49c8ed9-2c9e-471f-80df-666e274a2d12,233981564,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-08-05
+33eabc7a-f01f-4805-b412-089ef11b2a38,234037305,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-04-24
+fc626418-0e63-435e-8a4d-6ec2b53d51c3,234912102,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2024-08-09
+64b80425-2728-4097-9edb-d6dfa16f5252,234961807,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2024-08-10
+d67f668d-e02e-4d3e-be1e-c0a85e66d384,235434738,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-12
+c423e0da-3e24-4159-9903-5d3c0cb2fa90,235444898,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-08-12
+db55752f-a11b-4df8-a384-d967d7376ac1,235521479,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-13
+456a797e-8fa3-4d3b-b64a-f1bb59ab5d46,235562592,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-11
+c4b2df9d-b083-4fee-b0fe-d92d3efe9298,235629147,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-07-05
+cb7a7375-a824-47b1-8dd2-dc4f9c0ff0f6,235629509,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-06-03
+47ba3267-f4bd-46cc-90b9-f73783571997,235632045,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-29
+c1413a69-26e1-4238-a2b5-2902d040d7a4,235632125,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2022-05-22
+a5e5b71a-7bfb-4882-9aca-919a641cca7a,235733838,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-08-14
+2542d9ac-c817-44b8-a0ed-5ba2ae4003b4,236909704,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-08-20
+349adf15-01d9-423f-8df1-2978b3bae5da,237140558,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-08-12
+1167cc01-62d8-4335-9a85-abd79ca3b5f6,237147400,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-07-31
+ecc74782-4a90-4611-80f1-d6739898f06a,237349203,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2024-08-22
+e0f53950-4a39-4696-87ef-db0caac66e76,237390597,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-22
+6d787b70-c22b-46d9-9aed-1bd7f4db1f80,237417085,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-22
+95eb93c4-1010-4a4e-bb40-70867316835d,237468374,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-08-22
+d1d5ec62-2a31-40a6-bb9f-324768d351e9,237475600,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-05-29
+dee51d0d-b3e6-4b5d-baf8-2c7b4e912b4d,237612807,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2024-08-23
+57c4f622-6721-4392-8c5d-2c4619a67ab1,238281106,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-08-27
+5e4b1594-bd5b-41b1-8324-d7c67730ef83,239206598,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-09-01
+a50b7142-f089-455f-bbd2-d8303ac4e5e0,239463251,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-09-02
+14f96b8b-afb9-4356-9b16-85056b16ce13,239524715,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-08-31
+5c841be3-0a6c-4fbc-823d-2090ce69cda3,239858165,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-03
+324dbdb8-6ddd-4951-a8af-ea69856fd279,239944182,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-09-04
+64eec101-ea62-4e71-a8a5-4581bedd9a91,241300160,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-09-12
+49941c78-edf8-45d5-913b-94aab393e064,241547221,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-09-13
+03e401fb-fcee-4083-95bf-47664e4dff82,241998196,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-08-13
+a927c264-cab6-41b8-8229-81df31a8f552,242000933,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-15
+9acfa904-b3f2-468a-b905-4ac308ac0ecb,242015262,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-09-14
+3b1ac0ad-b14c-404d-9582-cdda5b6992ed,242719160,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-09-19
+b578d17c-8b69-47e9-8dc2-05ae94cb62fb,242735236,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2024-09-19
+54d55a34-e512-4fba-916a-a0b012c0efa0,242786487,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-15
+ff7427df-e490-4c26-b865-4c9651dd1888,242964479,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-20
+12e5d703-bb33-40c9-9af3-5008c046710e,243336432,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-09-22
+1284ac13-5250-4f29-b862-e469fe6b0a95,244828285,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-07
+0840824a-05c2-49bb-83e5-cb12a81fe9da,244962350,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-30
+29225374-2167-4af6-b79a-ed364b4c3cdd,245154119,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-09-30
+25fd3bd4-97aa-4596-9ec7-d464125f4028,245155306,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-10-01
+ba0461b1-c4b0-43a1-8d50-0b60867608c3,245678303,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2024-10-04
+51184168-f7d5-4579-b899-5885c2d31787,245814901,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-10-05
+2c7b6ef5-607f-479f-864c-82076151669d,246534957,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-10-05
+035b7f12-d37c-44a7-b129-8db70ceaa05f,246729122,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-10-05
+d432b3bb-70f6-400e-8f29-2ff13f42baf1,247058127,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-10-12
+bea285ed-659e-43de-87c0-8e8210d781bd,247228170,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2024-10-06
+1509073e-725d-447b-ac86-5d507aaf9ea7,247228493,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-10-06
+2686cfb4-6973-48dd-97b5-c70cf916b725,247323541,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-10-14
+3ea4bd31-a6e3-42ac-a7b5-71d2be5930e6,247470024,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2022-06-09
+d07bfb9e-b428-4618-aa95-bad0a8c8b00b,247517770,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-10-14
+f76993e3-4b28-48ec-b972-d123a507d2c6,247672215,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-10-16
+45c2eb74-7a29-4acc-854e-27708992af13,248641966,"{'id': 39665, 'name': 'Caretta caretta', 'rank': 'species'}",2021-09-10
+130f058e-7454-42eb-939a-3ff3376be4a3,248792623,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-10-23
+38fb7948-edb5-4998-ab69-9b44a1977762,249033783,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-10-20
+57a10011-c40e-4e72-9a7a-6b64f2a45e4a,249589053,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-21
+69929c7c-f5ea-4f27-8ae6-422c2a9536a3,249711444,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2013-08-25
+53f98bd4-a39b-4d5c-b87c-64167a293746,249912430,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-10-03
+25021957-f43b-49ce-9ac4-bc4588a5c0e3,250055191,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-11-01
+a6d4f819-ec16-4279-b73f-59d2dc9256f6,250283416,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-11-02
+0838256e-33b8-4478-86fb-786edc1dfb89,250285013,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-04-29
+b24c4489-c43c-4b24-b2db-b5c630ed2d88,251348920,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-11-11
+1563b819-8f53-440d-aaf6-bd3f4395e672,251360859,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2024-11-11
+98634128-5ffd-4c59-bc88-c84a39f54c2e,251806163,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-11-06
+a4330430-92bd-4de0-9293-6f26d48c3611,251810782,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-05-22
+368a0acf-88a7-4514-9d67-4c77ae945740,254052266,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-08-28
+20e2b279-8b5c-4811-bf7f-0f3197fc759e,259441467,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-21
+db408bfc-e7d6-4da3-9446-f0fbfbb105c3,259441554,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2024-06-04
+e4807743-5a6f-408c-b6e1-06a397ad84e7,259441624,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2023-06-03
+85aa4b6a-a0cc-4ccc-b450-0e08268d16fe,259441732,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2019-06-27
+a2f91a7b-349c-4c21-8b57-8ca734cff0f2,260343919,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2023-05-23
+bbdcdafa-7ab7-4ebf-8ff4-c2d6edd85226,260673480,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2024-06-29
+6f41b25d-1555-4968-8149-e0b183b3e419,261096061,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-09-18
+22d7e4d7-2986-4753-83a3-b7627ce0a958,265082343,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-25
+e1fbcf65-4991-401a-9c1e-fb583142abc7,265316905,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-03-03
+2765e279-8960-4460-af73-58fa8e0f2673,265545889,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2024-08-15
+aa289b7a-9292-4b4e-934a-3a5a4fa0f6a1,265548089,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-07-17
+c57e19c2-93b9-48bc-9bf6-cb55bcbe29d5,265548818,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-18
+ec8a35cf-8683-463b-9ba4-314dd6a669fc,265820292,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-07-24
+e9dbe681-d0ad-4b3b-aec9-27fa6f977440,265820382,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2024-08-13
+36b682f0-266f-48af-bc1b-d7cb04cc1750,265850232,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-03-18
+76f18b44-ccc8-436d-a985-e04607fd10fc,265881452,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-03-18
+e63fa31b-2a56-4ffd-9b3f-b61b925dac0b,266233073,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-03-18
+7c1ec98d-6148-461e-8e02-1f49c50e9b34,266550738,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-03-22
+5dd2f611-f7c0-44e8-a969-ba3f8430d76d,266552947,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2024-06-08
+ee435ba3-7d2b-43d8-9449-7a3df03e83db,267338794,"{'id': 73844, 'name': 'Lepidochelys kempii', 'rank': 'species'}",2025-03-25
+26197c3c-e2b5-4415-a8e9-feab13e069e6,267749791,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-03-30
+808500f7-269d-40e7-a780-9d2d559beafe,268092319,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-04-01
+bd965f83-2433-4ec1-969d-66638fc8521e,268313007,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-03-28
+0b3d3c4e-2f4e-487a-86af-3c80e666b399,268313008,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-03-28
+1954b7d7-cdbc-490e-9450-b52d7decffa1,268959479,"{'id': 116461, 'name': 'Anolis sagrei', 'rank': 'species'}",2025-04-04
+f22b9b03-1532-496d-acc2-258a22bcee46,269774516,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-04-08
+b9f00082-6d9c-4bb0-abe7-329b3bf5f8c8,269774575,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-04-08
+961d126c-1ff1-4b25-850d-83485164953d,269774694,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-04-08
+f3fdd31f-ad49-4f5b-83ae-19b7c7398a2b,270286234,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-04-13
+f60f5576-c6c2-444f-bb75-97c619aea609,271080750,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-04-17
+c941e026-de17-4552-9d6c-c1da32a526da,271124902,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-04-17
+1489eb5b-dcb8-4aa9-b9ee-1c0f244313a3,271506000,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-04-19
+0b42ec94-3fa9-4aa7-bc56-4bd4b4bf2505,271535989,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-04-19
+b4f5713d-47bb-4eea-baf9-1048db7c94e0,271537008,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-04-19
+0112fa93-d9a3-48a3-9f31-1fe69ebed097,271611375,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-04-18
+e0cfcd10-a234-473c-8fb3-7b9c33689bd7,271693410,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-19
+7003da6a-9cd9-498c-a484-d3b5e8380ee0,271836304,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-03-29
+e8cc6089-f712-4a7a-a128-2ba30c72d18d,272089512,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-09-17
+be4232bd-3b07-455d-8779-a3a9afe3b7e7,273533691,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-01
+16b7beb2-313c-4f54-88b2-d2f2ce744966,274230627,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-04-26
+c349f2c5-c862-416d-a6fc-f96428f87a65,274312271,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2024-06-09
+5ac76da1-88cf-4f70-9bb7-b0ca20987292,275191407,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-06-04
+09ef4e83-870c-407e-9511-db00e65a5a20,276672496,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-29
+2810d23d-6800-4552-94a9-452da3595d20,276684107,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-29
+0bb60736-5693-4533-a9e4-64860b2b13ec,276787559,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-29
+0ead62c2-5b11-4e41-8bcc-b89c5868f139,277374955,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-05-01
+2870be45-ea21-484b-aff1-4d31fdecee93,277835503,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-05-01
+da2689bb-015f-4a4d-8002-33024bb46295,278140936,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-03
+4e1fef6b-9464-4bc2-a641-9de5d216ba89,278231037,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2016-06-06
+ac2ef0a4-e1a8-4fb2-b4e0-73987f06044f,278253095,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2016-06-20
+813bfbe7-7c72-48c8-b2d5-73927fcbf5b8,278371989,"{'id': 39824, 'name': 'Pseudemys nelsoni', 'rank': 'species'}",2025-04-26
+3f74456a-bcaf-4f1a-a54c-a0779b390a5b,279103654,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-02
+09cd2df8-c070-460c-8065-7ff46d802f72,279103681,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-02
+03210760-9392-48f4-a8e1-6794e33337a5,279106438,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-02-26
+3b3a4cd1-4e43-40b3-803e-cadfca24cc02,279370815,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-05-03
+0e8be2f8-c2b7-4fc5-9300-730f6f960e0c,279484094,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-08
+427f7a3a-e2ee-4198-8d8c-f385636c1652,279502719,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-05-08
+d1344fcd-f9b2-4ac3-ae73-0320fbb52723,279582101,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-04-22
+94afbf30-8dce-4f13-99af-d5b506070b88,279833022,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-05-07
+ae896b97-0a00-4a15-94ad-028542af7c37,279833337,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-05-07
+98f6196c-03c2-4144-bace-6b8916af11b3,280040986,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-10
+355cc95f-9e1c-4913-a0b1-65d7939ec625,280244997,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-11
+63b466ff-6ae1-4d06-bac0-31422cf57faa,280498860,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-05-11
+59896188-de37-4237-970e-3073c5052961,280606475,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-20
+0a2168f5-2947-41b3-b0d1-0ad6edda2481,281295048,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-05-12
+585cfa44-6230-4120-94db-61b61cb723bd,281478249,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-05-15
+c567ada6-b4f6-4f50-a9a6-35acb5f824a0,281478291,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-05-15
+3b4d70bc-fe4e-4172-9953-cfef365f839a,282471375,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-05-19
+653969c8-761e-451c-9721-65805354cd20,282629173,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-05-17
+5934b512-b72c-4614-bdca-9239348718af,282699495,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-18
+5721010d-dd02-4bd6-8dba-b8eb5a4819ac,282746869,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-05-20
+6d1ef03c-42cd-4c65-95d4-505a72b39cfc,283451557,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-05-20
+bf8db03f-97ef-4545-9902-82a3a3865ecf,284594655,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-26
+7b5e197d-4601-403d-8794-b188dcb6336f,284926194,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-05-26
+b87818fa-9db2-438a-8327-fb632f239b4a,284926853,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-05-26
+ec1cfdb1-257a-4865-86ec-3fa9d5b5bbd1,285350701,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-14
+cd61161e-d744-4797-9265-25ffa069223f,285439614,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-05-30
+0e46d0f4-121b-4863-adb4-23481aa947b1,285663659,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-05-31
+f6e39ee1-8248-4201-b44a-961eb985d29b,286050398,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-01
+e61543ba-3696-4c6f-9a86-5d156036465d,286524685,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-02
+0fdc9426-1026-40c1-8b52-6a82a2ca3a97,286525032,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-02
+0591afc1-874d-442f-af86-ef05812a47ed,286644236,"{'id': 26575, 'name': 'Diadophis punctatus', 'rank': 'species'}",2025-06-03
+b5ed5a84-97a7-478d-97ee-f8ce08096379,286774938,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-04
+3668cefa-b3ff-4513-96d9-654ab3620e44,286851638,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-04
+2a7cceb3-934d-4c42-a611-3c85873e8271,286891798,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-06-04
+94fc5046-f241-426c-ba4f-99aeaba13cfb,286904615,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2025-06-03
+d8d8a6d2-9b09-41de-80e7-d78a3918b51a,287031217,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-05
+216ac515-6e07-42f9-8902-f3650aeb17e6,287033820,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2025-06-05
+c7398584-99bc-42a2-98e4-6f3013079f41,287054543,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-06-05
+1664c0c1-1333-4477-bf2e-6dac510f902a,287071267,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-06-05
+e41670c2-2e14-4ba0-87d6-8b1f79657418,287122458,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-05
+059bb107-6dc0-4ad9-adfd-1fd64bc6adaa,287146704,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-05
+37acc8e9-5cc9-41a3-ac03-44a08e73703c,287195970,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-05
+59bb8a0b-899f-4285-b13f-28584a5f0d21,287196000,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-05
+3266c6da-35bb-41a5-a7ad-3795018129ee,287327860,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-06
+720cf9b8-0ace-445c-ae6f-593074d56193,287343172,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-06
+9ebe3072-3d6c-441a-8710-919ae7880c7d,287484109,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-06
+61eb30b3-d7cf-4dc8-902f-c1b745215d72,287879788,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-08
+ad300a59-f0bd-4479-8f89-3636505248ba,287898383,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-06
+4681b0ce-978f-4619-ae18-4953b18a71f9,288174420,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-08
+bbdf67c3-6d66-42cb-b3e0-9c22042b1b03,288499318,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-10
+a16aaf70-687f-467e-a202-d2dfbf2f528a,288766415,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-11
+5f6454af-e194-4dac-b385-1534bf15a650,288779008,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-11
+35380153-5f75-4f00-9123-1e715aadcc97,288785462,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-11
+d4c66540-cdf5-4759-8728-7ee2f177f2ea,288785971,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-11
+36dda30e-8803-4dd6-9b53-aaca3a252d3b,288830908,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-11
+0a4f4921-ac23-48eb-9e5e-a2421f150214,288986700,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-12
+c98ca0ae-bbf3-46cb-9339-6510d4c7c9db,289000031,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-06-12
+f2a8b2dd-9946-452c-b9c8-6d544f520bef,289000810,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-06-12
+f11ffe80-dcb9-48aa-ae59-e03f77f93431,289295723,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-13
+f706181e-63cf-44a3-967c-fe308fc70955,289393181,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-13
+6b607c0c-062e-466d-a1f7-4ad4eae630b6,289800719,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-15
+f7edfdfa-b930-4864-a97a-3981f365c015,290028237,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-15
+8bc86a46-e997-4ef7-8e22-b1d6ae428fda,290157437,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-06-04
+cf6c08e4-cb8d-47f1-9d5c-76ee48469a3c,290218080,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-05
+effa0a67-8541-43fa-84f3-dc5ec5408946,290426491,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-02
+deb4d6d0-b759-4ba3-b0af-b2f495f80321,290591524,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-06-03
+edf26c49-7f42-4c41-b8aa-f65bbebde7ee,290645627,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2023-03-27
+164839a1-85af-4c64-84f8-bbae5cc89639,290926609,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-18
+87ca02e3-390d-400c-8cfe-1bccce21e267,290990397,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-19
+fb7f8cdb-a486-487d-af57-3b5fccfa2b4d,291064291,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-19
+8c887d84-2d7e-4171-a0c3-56d86447fd4d,291104139,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-18
+258c0d56-29ec-46d7-9545-da8a8ee0b9af,291204784,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-19
+ab122f4d-941d-43bf-a700-d86dd6799d50,291660835,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-20
+7d7d6c43-543a-439b-a23a-18bf7190c594,291780796,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-06-22
+40d13a1e-7284-4428-aa7b-ca883107cc42,291830055,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-22
+870e2702-2987-41b2-a6b0-0d02c3cf1e49,291932335,"{'id': 68334, 'name': 'Pelodiscus sinensis', 'rank': 'species'}",2025-06-22
+c761655e-3cc4-46ae-9ca7-1f5dacd08991,291932575,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-22
+26022ea8-21fe-455c-8278-403bc36d089b,292184562,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2016-09-15
+592bc113-25f5-4328-bea7-fe7451e846d3,292253841,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-11
+31240ddc-f2e9-4058-9613-f9076215fc64,292326941,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-21
+c8d7b180-4f66-4dbb-80e3-575d78568fd9,292327891,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-21
+8c8d1fc1-412d-44ca-ad11-6e92fecd94c6,292327920,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-23
+53ddf047-0688-4145-9d01-62d85290b2dd,292329332,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-24
+88ade584-8c77-46aa-8f44-c8b892c24fc1,292465950,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2018-11-01
+ff18ad9c-0b17-4676-9f76-30e7dacad238,292465955,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2019-02-11
+9ca14916-c695-4ba3-82ec-e4bbf4669465,292612287,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-25
+b4b4f9fb-d973-4dbc-99f3-8cb03a888da4,292778891,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-25
+7dd44d4b-4f36-4987-8ba8-3dc398d101be,292778937,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-25
+38349c5a-a521-44c5-80ea-55de38f0e197,292862296,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-06-25
+12b9af3c-06de-4101-906c-15f75c2a5a96,292979949,"{'id': 39665, 'name': 'Caretta caretta', 'rank': 'species'}",2022-07-05
+4c332e34-f6d7-48ae-8f78-fbb795ef44cc,292980412,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2023-07-18
+6b3321f7-c025-40ab-958b-b24b0a81bcd3,293015488,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-22
+404b442c-88b2-4454-ad6b-e4e9f0afd7cb,293150398,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-26
+2bb4b0bb-beea-476c-af9b-79538f3978b9,293172916,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2025-06-12
+6ffb2aef-1c5c-494b-a383-90cbf31781a8,293176619,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2024-06-07
+94d5d7c4-6092-4489-81d2-068e9fc69832,293540033,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-06-28
+559d3463-3e49-437d-b6b0-754b302a23ff,293624543,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-20
+6ee46e61-cd53-4b39-892c-b5b7889e0d7d,293768933,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-29
+b5bff53c-5ec0-4734-92eb-045d62e1fc19,294228023,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2025-06-30
+0a0a3416-6b68-48b5-9e39-cdce561c8f48,294239098,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2024-08-20
+4b68b567-b2ae-48d8-bb0d-94ff48fd319c,294240266,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-20
+e1347d36-3ee6-4209-b4f7-68c94f8c785e,294717632,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2025-07-02
+40bdf208-87a6-4f6a-9acb-1f001e86ee9e,294719682,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-02
+1e783c40-70db-47bb-b509-b25c6080f674,294768023,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-08-23
+ee814e18-7628-48a9-83f1-a5cfe011c91b,295000093,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-03
+982b5dbe-11b5-4a3b-9ca5-44c217cac748,296080880,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-07-07
+dde9e5a4-5718-4307-bcf6-86c01de6a26e,296167460,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-07-07
+7bb2ef87-b2e3-4058-939e-cb573f70de50,296254846,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-07-07
+80dfd461-dabb-49fa-b78c-4341decc1536,296521728,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-07-08
+613a47f2-1b23-45bb-aef1-d9a44acca90d,296611060,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-09
+8e0687cb-5ae8-4a4f-8319-3c0acac486b5,296781943,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-10
+3336dd5d-dd3e-4070-b722-07b196a6a8aa,296782982,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-07-10
+dabec57c-e0b9-4ad5-9635-8e4aa4518686,297023827,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2025-07-11
+c7062112-29ee-4965-8266-a79dd97ded59,297023873,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2025-07-11
+37b30360-22e7-4068-8c56-10552a9f5417,297288329,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-11
+fca4929f-6645-4367-87b8-03f889a8e6dc,297290735,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-10
+99551c90-9d46-4879-8186-7f2a15566de5,297308480,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-11
+4294ffc9-9314-459f-93fc-5879b28159a8,297315882,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2025-07-12
+510bf1c7-adc0-4ba3-84f0-1b7a20af127c,297328152,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-11
+195308e0-6131-4c72-9b33-938f39479178,297875066,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2025-07-13
+3eb8ae7e-cfa9-403e-a8e6-6aa3fe13822e,297875523,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-07-13
+1aba60c7-ab6e-4ed6-8562-fc163a5eb917,298836778,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-07-02
+1a6dcd8c-0f20-482f-95cf-be11d9f80315,298836860,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-07-02
+d14c090f-df66-44cf-9d3c-9b3b1fa31c33,298837284,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-07-09
+e7c23948-04f1-4d74-a12e-150cf8f1a9bf,298837296,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-07-09
+118ade6f-b501-499a-accf-6f9b16c65aa3,299499540,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-19
+aa49ca8b-97e7-45f6-942c-2c4cb769694f,299499602,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-19
+eba7255c-0c24-49ce-a2a6-855433ee26d6,300009022,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-27
+17211b1d-91f4-46ab-b0aa-57f2d1f8e219,300123038,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2025-07-16
+6499e96a-daaf-411b-90ca-a6efe97d84ce,300141215,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-22
+c2ecdc84-ff24-4208-bbfa-806386c1bcea,301580246,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-06-11
+157f2424-b1f2-44d5-a237-d6b4e6c8b2f9,302184916,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-07-29
+a47e0c21-43ac-4faa-b2d9-1f46576aaa9c,302276874,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-07-01
+defabf81-20a8-4e5f-b2ac-56b7025c9c4b,302985300,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-01
+f688b9bb-bd93-45dd-afbb-39547f0b9e02,302991179,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-01
+5436be77-bb2f-47c8-bddb-b6c557c09f1f,302991484,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-01
+96f0415b-80c3-40d7-aa5d-b1bff0313565,302991530,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-01
+63ff04d7-be5e-4ea8-9c56-34470a0938c3,303021925,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-08-01
+1e32de58-b543-4e9b-af31-a8dd54ac7508,303023351,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-01
+f959391a-cab4-44ce-bab1-f7b5f9c2b018,303272031,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-02
+99288d6c-28d2-4a00-9601-9b8f909d0c4c,303272272,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-02
+6fb95ee1-4868-410f-bae5-a5b10547a62d,304276959,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-08-06
+bc6e0134-dc44-4b82-931e-1d40a195d4f1,304302876,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-06
+421f3718-a9ce-41c4-9617-7e21d6eec50d,304548946,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2025-08-07
+9d73a0b1-3942-41fe-984f-6e00aa00dafb,305305277,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-09
+ba863d75-185b-4634-a9eb-26544cae04d2,305320684,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-03
+59712a27-482b-4590-b7a9-850cf708d982,305549922,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2025-08-09
+8254d4ad-ca51-4856-a119-5aba735b722b,305944461,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2025-06-08
+24432d06-efdf-47a8-8ca3-3cf4bb475735,306096980,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-08-13
+c537c780-64dd-4374-a4b4-2c2648085bbb,306570269,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-15
+a4744dbf-2a5a-4a54-ae62-79b7abb2edd1,306820082,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-16
+3b8368e8-42fc-4a4a-ab54-b1c112c14ea4,307004595,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-17
+5e68a5bb-8b39-4768-b9c6-07cbe52cd56c,307004978,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-17
+de0d3ee8-5bc8-4e3a-a05e-2bb1d30e854b,307016186,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-17
+f4f5cbbc-2b40-4921-9443-7ead11852ee1,307017941,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-17
+092d435c-442e-41a2-95c1-9cb68dfd1b3c,307049941,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-14
+aca0079c-2284-415c-a75a-b6c5f0b4f311,307050532,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-16
+691c738d-5604-4138-9b31-c1cb5e359287,307062086,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-07-18
+102bf790-d1d1-48a6-a629-ff22141e8dc5,307193846,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-23
+f301398f-d6a8-4829-b77f-45ca0639f335,307194241,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-07-28
+438de8b0-d7be-4db0-b69b-c4f568b4c6e7,308121899,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-03
+fc3f8326-be25-4d69-8286-220b4d7de583,308198720,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-22
+d439e5fe-3915-4f20-a534-c6bb71249be2,308202683,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-22
+197d321e-102f-4e3f-9c0f-46771e9fec98,308449298,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-22
+9f0994af-9a60-4499-a8b2-ae0e3df93897,308451083,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-22
+591ba839-9d13-4f49-a270-d4eea4360784,308457499,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-23
+a9a799e0-1532-4bfc-ac67-337feee11227,308458074,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-08-23
+e3bd75c8-3162-4e49-a497-9b0a5007dbd1,308458911,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-08-23
+551b258c-6f73-4af5-ac4b-686bb6160ae3,308593187,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-08-23
+0ec5f0a2-9b1b-46af-8d83-64ed11b532e0,309366589,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-26
+eabcd6c9-7b42-49e0-b195-832a6241bc0b,309373922,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-25
+55425abb-9388-41e5-9e5f-437c1e71d0cb,309373962,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-25
+ec4e7e31-7265-4cfa-a4a7-eeb38b882ad5,309407927,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-26
+968884fa-03d4-4c8a-b954-222df97c7358,309626794,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-27
+8f966e0b-141c-410c-8f25-eb6819259efb,309978500,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-06-03
+eb02e816-bb8d-4382-9fad-3fdd5ebea52e,310190769,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-23
+c54bd113-ecd8-46e2-99df-092f13eccb3c,310264362,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-08-30
+14dacde4-fa36-4368-a0e2-bfc4f023c051,310264376,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-08-30
+4fe3fbbe-a1e2-4df0-bd8f-91e3e20e353a,310382279,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-06-03
+d3c6ff44-5dbd-415d-8703-3d3894277f11,310656484,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-31
+b0e61def-42f5-468c-95c0-a9631d3b448c,311290240,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-03
+96705aff-dd46-4e2f-aa0f-5d9c64c3a7f9,311728168,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-04
+e58e214d-056f-4cd3-99a0-b9beffccae05,312296019,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-07
+9e0b80a5-5923-4bde-8332-d857104336f3,312461177,"{'id': 26159, 'name': 'Alligator mississippiensis', 'rank': 'species'}",2025-08-07
+1086ef65-4c88-4290-86e2-17c2db4e86a5,312714366,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-09-08
+66a35c5b-5156-41ea-a335-f21f50cb87f4,313535244,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-09-13
+5690a2d6-c17a-42f0-ab73-63048377561e,313652826,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2025-09-13
+16444e34-d47c-42e0-9aab-2a2b32b0541a,313838105,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-09-13
+66aa1ce3-1578-49c8-b88a-774ba14c8de0,313898214,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-14
+8b8a6e6d-3d26-495e-8dd4-e5f7a22f599b,314044059,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2025-09-14
+499e76c4-a82f-482b-a40a-e9f20097ab3b,314244484,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-15
+7f08d88b-70e7-4253-9cf3-84b54e6ccb0f,314924844,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-09-18
+bdcd647f-f09e-4227-a103-ab9f1cd326c6,315113398,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-09-16
+416b6d91-5876-4e8f-98d9-49c3ed4c0128,315150001,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-19
+cdb4f18d-5f9e-451b-9e7c-fb31b47b4fb0,315941573,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-21
+d7f17482-2485-4a06-8b73-a30c331104bc,315966800,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-09-13
+d8fcb364-843b-429d-8841-79f03eda0413,316063712,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2025-09-23
+47698f36-0e5e-43d5-aadb-a8511195c705,316347210,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2025-09-24
+4908a392-25cb-42d1-b228-00e05b44454c,316629835,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-25
+1923f22f-bf24-4703-9983-44d484eb35a1,316630121,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-25
+8518baf0-305c-4be6-95a4-bbf3837640ff,316630332,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-25
+b3a19082-f64f-44c0-8a32-af1e70da61f5,317282066,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-28
+d27834a4-f1d3-4b4f-b79f-08b3e41dbd0e,317426208,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-09-27
+01c72960-2154-4c6a-8c85-85b909aaa360,317553135,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-09-28
+ceb4b880-1f97-4496-a8ed-387b8020e27a,317892225,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-19
+2f6a280b-9a42-4a96-9e65-7eeb4851758c,318193768,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-10-01
+cfae25ce-28a6-4121-8e6a-e12700444dbe,318269425,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2022-10-31
+7579983a-aa0c-460a-b4b9-0509d845994a,318270364,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-06-28
+4da44e5d-d7bd-455a-beeb-913019565d34,318278072,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-10-02
+4802d760-6091-42e0-8dca-fecfe18da5bf,318415684,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2025-09-24
+c4816f97-4f20-42b7-b338-d82edbaa8e87,318723889,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-10-04
+ca785acb-9969-46ee-be7c-e6610d0316a7,318967029,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2025-03-29
+a2efc2ac-059b-4918-ac6e-c7c00c4393e2,319425916,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2019-06-02
+c525034b-a9c5-4191-9d10-c8bac6314741,319430066,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2022-07-26
+a816f91b-0ac0-4429-9738-29ceb052f5ae,319639418,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-09-29
+f6d572f6-c4fb-4de3-ab04-19abdcb08776,319835716,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2025-09-28
+9d388310-c6f0-4513-8885-b2242edecf8a,320147637,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-04-22
+5fb67f00-5f72-47dc-b5ae-e1576c9282cc,320751542,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2023-06-21
+0fff4637-71e7-4f07-ad15-0979added3b6,321223900,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-10-15
+6e6a5d7d-e92c-4833-ab28-50f290058cb0,321224736,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-10-15
+6ac97ccb-0581-4246-9d76-dc77c1eeac26,321639449,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-10-18
+875b2d2b-20f5-4cd3-ba49-f019ab64717d,321895317,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-10-18
+2f44132e-e7cc-41fa-9aba-7a51518a764b,322228850,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-10-21
+426a0df6-7a4b-4d3d-84c4-95a882890c08,322431500,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-10-22
+3e518eab-eee2-4d5c-bee0-0dbdccbf3871,323125001,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-10-24
+f583ce98-3b95-4ed6-80f4-9d9a06170f2d,324099514,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-05-26
+f530a9be-f51f-4b5a-80ca-604c03dc2d44,324426631,"{'id': 515419, 'name': 'Lampropeltis triangulum', 'rank': 'species'}",2025-06-20
+d9e0f948-a24e-45a0-8f22-ba3c63d5090a,325543156,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-11-08
+f2af121c-2b05-4a6d-9f55-182514a5aec0,326752450,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2025-06-07
+18a45114-6461-48bd-83b3-e740d2b8e099,328388842,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2025-11-15
+8ff6b918-6d87-46b5-b7a5-ad8839a836e3,331939189,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-04-14
+a21c9e2d-848e-49a7-b4bb-4f4b477a174c,333970126,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2025-08-29
+1682379f-1f63-42c7-bf10-b041d9926f48,334677597,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2017-06-11
+feba0122-6640-41e9-8c8a-09296ebe0ea0,339360836,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2026-02-19
+dd59f144-a234-4ce8-9e40-a7c8eff8fb2c,341259139,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2024-05-20
+19d337fb-6403-4309-97a8-0f8cb97aee3b,342305704,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-03-10
+e6b3b0d0-d105-4bb5-98a0-fbfd51d932b9,342336635,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2026-03-10
+c8c33f96-f987-4a2a-bc1d-d17bf4582fa9,342519280,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-03-09
+b48f225f-07eb-4f86-81d8-679458338952,343020711,"{'id': 28365, 'name': 'Thamnophis sirtalis sirtalis', 'rank': 'subspecies'}",2026-03-14
+b910f6c9-7790-4779-ab6b-d46fc30048e3,343186957,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-03-15
+412e9c49-416d-4432-93f3-2fe79ab7826d,343656071,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-03-17
+55bd5c1e-1050-4796-a6b9-ae6a5d50142a,344048186,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-03-20
+9ff4978b-768c-4167-a6a8-3377b6e8f9b5,344432845,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-03-21
+f8ed309c-1ac6-4924-97f3-17bb4b83f4b3,344562381,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-03-21
+9bf965b9-d013-4611-a8c6-301b03ba7600,345012500,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-11
+cfac5342-9e60-4463-b88e-777935fb402c,345494067,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-03-27
+85cd51a3-2468-4ccd-a316-a5c737841629,346675355,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-03-30
+d02210ae-0782-47e6-baf7-d36023eb872d,346675454,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-03-30
+ebf4bd1c-7b30-4567-8dc1-4648304f2953,347081376,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-08-14
+9d98b330-f2b6-4f1f-a1c5-27d8f2ecf016,347254630,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-04
+76bbf175-e1a4-43a9-92da-534acebee6b9,347355834,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-04-04
+731e4cf7-1856-4eb4-95f7-b736a9e37a7a,347839037,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-04-06
+8b97b261-c5dd-4255-8ada-797b9e48487a,347842513,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-04-04
+af3f208f-4520-4563-910e-d3f179e95057,347844589,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-04-06
+4742afc7-f1a5-41bb-a54f-1a02114cbcf0,347852026,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-03-29
+83accbf3-9c0f-4e54-a271-2fac0cdbc2ab,347853611,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-04-06
+4f1966dc-a03f-48fb-b159-db4c944bbe24,347933753,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-04-06
+49d5e672-f646-42a8-83b1-a0ed176483d8,348547384,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-05-26
+0944cb51-2f21-4e99-907b-1f56261df756,348572675,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-04-09
+f3ef8a02-37bb-48f0-a640-18cd64f38860,348773856,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2026-04-10
+8ab43ec8-96f4-4f4d-bc8f-bc77bf3256c7,349312133,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-04-12
+041f18ab-efca-496f-a806-c1dc35bf41e0,349497395,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-04-06
+60b2ac54-0ddb-4cf7-a556-28c1ff749622,350021640,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2026-04-15
+c72c218f-ecbc-4b16-ad27-857ed9d83cd7,350193359,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-04-15
+a8405e24-b8b1-4cd4-84c0-78a8eeac968a,350364799,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-16
+42011f58-efa1-412f-8b00-84da1ae1adc9,350649154,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-04-12
+e2797727-701f-45b3-ac73-f78cb87c6e86,350927476,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-07-11
+c1fce625-6723-4b90-a5d4-ce344356932e,350977099,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-07-11
+0b28fbee-c48f-4788-a977-a2371121db90,351454819,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-04-18
+3328d2a7-9486-4256-bd56-9c3b288ba48c,351747147,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-07
+44320217-e60c-4cd9-bcbc-f8f22216f5ba,351747428,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-09-20
+12134442-f3b1-4bf7-8507-3cafddf08425,351749463,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2025-08-24
+a7be79cd-b458-4ac5-a865-db021d4459fa,352096902,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-04-22
+7de7df64-585d-42a2-84cb-63c1ba580fc5,352314048,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-04-23
+532ef3e1-9eac-4d0b-90e9-0c8422bc86ff,352368346,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-23
+4658fe42-52d7-42e0-8f46-9a84f947197b,352836633,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-21
+02b7fdfb-d107-4590-a7d1-c4a5c3b844de,352908647,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2025-11-06
+a62aed57-28d4-4324-b6bf-93042e79d8aa,353225520,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-24
+550185f5-5813-4cf2-bb3f-37201418db6e,353982158,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-24
+5f5d201b-186c-4e3b-b2f7-5ab3bafcfa80,353982677,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-24
+77fccbdc-a7b7-460b-9282-68ec96a48336,354123234,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-24
+d8dc5984-6ccd-429c-9377-99578758345a,354123311,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-04-24
+861cadb9-5308-4b94-b5a4-284b82e96ad8,354660951,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-26
+852743e1-55bd-4d5b-b576-722fa1fc2cc9,354760470,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-04-26
+54843543-c61f-45c0-b230-89245b0bff9c,355571569,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-04-27
+9138135c-c915-4513-be8e-007d1e4828e9,355573736,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-04-27
+1ef085eb-d277-48a7-a54a-d041f56303dd,356150258,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-24
+d76695ff-ebd3-46e7-aee6-4810379f6845,356167097,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-24
+5d892b2d-06e3-4b87-a5c1-792430ea928f,356170079,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-24
+6f0df345-1319-4fca-b692-62f003093355,356306837,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-27
+c50b7777-6a06-4998-828e-cdbbb2abc35e,356307100,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-04-27
+c0fa4be6-5efd-4de6-b8a7-c0838176b255,356308619,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+522113f5-0fec-4c82-bea6-5df3dff3f6dd,356308831,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+7ec16969-ab67-4262-bde4-00ee7b854fde,356308969,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+892e5e5d-3f17-4ac0-87d5-7e3a6b1b9eca,356309079,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+d9556e94-9390-45b6-9aa4-7df1148e39c0,356310090,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+ff08f932-7ad4-48a6-9a9d-5c6eef83f022,356331078,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-04-27
+e1595298-3387-4f55-b441-3509a074a165,356331345,"{'id': 797526, 'name': 'Trionychinae', 'rank': 'subfamily'}",2026-04-27
+5fdad0dc-9882-42a7-87ee-474239a13f33,356521251,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-04-29
+162c04d8-02da-4f27-bc29-72aeb075d9e2,356827826,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-17
+5a689b63-8fa6-4390-ad69-f0279585e1cb,356865011,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-03-25
+fa7aef3e-1b36-4564-a22e-acea8aa58c32,357410103,"{'id': 39775, 'name': 'Chrysemys picta picta', 'rank': 'subspecies'}",2026-04-27
+2351cbe2-511d-48e7-8cda-352bf3ed9649,357535878,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-05-01
+797e3108-07d5-410b-8d05-fb2a50a1ad28,357714457,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2026-05-01
+e4d6e018-30ea-4840-a8bd-af1dabfb9c90,358132508,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2026-05-03
+b74248b9-3410-4824-a4c8-2ee7829b9ea4,358194928,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2018-05-27
+c8d76ee6-0607-491a-b561-900c3e0b2f61,358321114,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-03
+fe64e484-7469-46b0-a3da-2a2202918873,358604869,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-05
+7c56fa86-caac-4e50-9f22-b294e225f846,358677848,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-05-05
+724b5a3a-d397-4d69-b981-f2e8cbff6e2d,358747696,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-05-04
+372c26e2-314f-45f6-a33c-3580d7c0d8dd,359692741,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-07
+d53ce9a5-1a22-48d8-b949-f6d55f4703ef,359819022,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-07
+fd3f0c45-5a81-414a-b4be-43448ef8782a,359853411,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-09
+2f0de1fa-06ef-4130-8470-6ce23012c149,359940696,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-05-09
+c3e56826-f3b2-4694-aee6-385d239c35fd,360331870,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-08
+f3775441-ae07-4e2d-8629-dc4d3e642f6f,360370084,"{'id': 39793, 'name': 'Trachemys scripta scripta', 'rank': 'subspecies'}",2026-05-08
+d85b518e-8bba-4bac-84e1-9d2f8dd97204,360671193,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-10
+57f3cddd-6735-4d6e-8a31-063b57a5111e,360908977,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-10
+6c0749a2-1a1d-458c-855f-8da76ccaafe4,361042207,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-05-12
+c008ffb8-33ca-46c0-84e6-4100711f683e,361235268,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-05-09
+329a92ed-15c3-4a87-bbe8-10d757aed4f9,361529069,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-12
+0c72e67a-146d-42be-848f-b86626a6d7b0,361529163,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-12
+b321f283-6498-4b7f-892b-44ad02a581f4,361772065,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-05-13
+3e835bc3-6695-4186-8609-79769dc87283,361994848,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-05-16
+191dcd45-b5ac-47e0-8b1a-86b0d8d70cf4,362221866,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-16
+aca926ff-587e-4b34-a1e7-c56254f57754,362787641,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-18
+8c5b9058-6b27-4558-b6de-88b2b50a2cf4,362847458,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-16
+487ab041-a019-4eab-8f81-4df3de9cd11f,362848201,"{'id': 68334, 'name': 'Pelodiscus sinensis', 'rank': 'species'}",2026-05-16
+b75cd122-65bd-4cf9-ad05-10c8af0fd511,362853469,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-05-17
+1b88c946-908e-4fee-8002-fe8bd98ad7e4,362854090,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-05-17
+edb4b1e1-7bb5-4da3-8780-6a06e174c3c6,363635027,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-05-20
+6b801e03-73d5-454e-b4f1-579026e17e31,363824427,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2022-07-30
+15d109cd-6eb1-4ea3-883a-d70732d75c25,365245728,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-05-25
+631c3cea-ef38-4195-8ff3-400ae4425097,365307426,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2025-07-17
+e409cc52-1b08-4ab6-ae34-0edfd0f9874e,365314494,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-05-31
+ba15c4ab-7b25-494f-b578-4a86bb3cb063,365503594,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-26
+2b98780d-cc0b-42f6-9360-5935f1979dc6,365606188,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-05-22
+df3a894f-9d1d-42fb-8820-2f9a9a94c92a,365780083,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-25
+ea55f988-4150-4c0c-acb1-d0b585ed6b7f,365844807,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-27
+4ee135af-d58f-40b7-b176-84378a6967c7,365847550,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-27
+16e3226a-baec-4232-8762-59ee8aa9904f,366806160,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-27
+71cbafb5-4618-4f2f-ac25-2a7f615f2b6a,366977191,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-05-27
+588789f1-9427-4170-b572-cb5a2ff16136,367167374,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-31
+3249b8c1-fd38-4ea9-b626-8d2a9ed9bbac,367221711,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-05-31
+c140033d-dd86-45e8-9071-920293c6fe2d,367402072,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-31
+a49eb465-b872-41b6-8c18-210cbb35424d,368380580,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-04
+ebbfbd43-8b71-4e3e-bd5e-c9b6f4ac172d,368401514,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2020-08-15
+6bcbfe76-c85c-4b91-871f-835f29fd582c,368401519,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2025-02-25
+3a6c2d6f-b12e-47bb-ab4d-0c119309d129,368401528,"{'id': 28562, 'name': 'Storeria dekayi', 'rank': 'species'}",2024-09-10
+a189e0c3-ef1d-4dfd-b42f-ecc255fb3074,368401546,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2023-09-16
+0bb0edbc-5f08-4622-9099-27866ec32c8f,368431564,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-04
+f29feb22-c11c-4ee7-9a9b-ceb6c960755e,368446865,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-03
+7735986c-7807-44ad-96c5-4c715e38d9f1,368605293,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-04
+17256284-5de8-42ef-9616-eda2564e1a27,369028910,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-05
+fa677294-369e-46e2-b1bc-50565a5adf2d,369108370,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2021-06-02
+0e09a424-8459-4708-8e35-7fc6661c5b28,369108597,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2025-04-24
+41442fff-5944-4645-8643-55754e5a117f,369322554,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-07
+9279654b-7d93-48f2-89b5-4fc5394e0b18,369461825,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-05
+5c9ae9f5-05a6-46a0-a651-d31cfe55045a,369461967,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-05
+123759b1-cb9a-4f46-845e-fdfab488903f,369486018,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-05
+e2f6b84b-05bd-4082-a9a4-c37d91764349,369486898,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-07
+bdba4964-22ba-4dd0-ba0d-d01630465d51,369487151,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-07
+b1500b73-e120-45e4-8691-39c234a409c5,369589218,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2024-05-24
+470a7e66-4270-45cf-9c3b-2fe7599545d6,369770714,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-08
+25bc16d1-137b-47c2-a75c-3ef15a5240f2,369799997,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-06
+e3a1a8fa-fa16-4cf1-a1d5-1c1c8490802e,369845065,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-08
+664ff69f-a90a-4a40-942f-897eb1b61cfb,369864171,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-08
+8df68038-f7fb-48e9-ad9b-40975918f73b,369884484,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-06
+1ebf6c54-2b5e-4157-b7ce-d169e0ef132c,369884610,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-06-07
+65e0fcba-3230-47ad-b0a9-02d906f2ada7,370064265,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-06-06
+9a929177-35d1-4b61-b62e-fd9021427246,370504325,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-10
+580c34d3-05ed-4830-aa44-274a86b57d5c,370658218,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-07
+b4ca1fd5-41b2-4287-9af3-072402195632,370658222,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-07
+2a98f01b-ca2b-4341-8cc9-967978b05b37,370658223,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-07
+5bcf54ab-908e-4eb6-86fb-8e703137b3cd,370961492,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-12
+26f43998-bf4b-47e3-aa4b-8c6b3e14cdcb,371033375,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-11
+2ac6c0bd-7bb0-4a92-80db-098b74f91498,371033604,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-12
+3c5de3b8-eca8-4af6-8c98-ca37b506ea6f,371034206,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-12
+92029f78-0109-4733-aa2a-d5d61521eae8,371048360,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-12
+4782cd11-cc89-46b6-9362-649848434f30,371064777,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-06-11
+5f05844d-c943-4b14-9b4d-b1db72f9da87,371065232,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-06-12
+d3c6398a-d731-4182-b36e-a12b883fa559,371240449,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+dc501cbc-e520-41b5-9443-1f1900beb50d,371244028,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+af62b285-c114-495e-9753-e2246ab4a37f,371354437,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+08764e22-dcdc-4c02-9273-4f6defc12d76,371354463,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-13
+9ac0d79a-377e-4d4a-aabd-70763060a5f4,371359848,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-11
+e896246c-3855-4094-bb1e-24bda093a09e,371424719,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+889070c3-57c6-4443-97eb-47d17b07f6d9,371452466,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-12
+04caeb63-5148-4d6b-99ec-5ea173f29871,372059022,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-15
+4c3741dd-8fdb-47ef-8fc0-ccaded895857,372059353,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-15
+f8cfd46c-176d-4bb6-b17a-f0b2e24af22f,372305553,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-06-13
+673ff296-6ec9-453e-bf36-45c0be2eb696,372342177,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2023-04-23
+6f7802f9-1f9c-4544-ac45-54263357ebfd,372353018,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-15
+4eec7ff6-f288-4202-bebd-e9dc4ede495c,372615723,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+b3aa62ab-ec91-4c36-927a-39a107c2378a,372927073,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-06-07
+62f395f6-b7a3-4954-b9d7-d03d70b2ca54,372941152,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-13
+386cef88-85ae-4f7b-aeac-ce3d2540829c,373372740,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-07
+af312941-8d20-497d-b460-f0a83d46e6f0,373384113,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-18
+c97bf48f-161d-4dfe-9af8-5e63b21f37cc,373387304,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-06-19
+d7f562f4-d3f4-44db-99f8-d7908fe59f17,373406247,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-19
+502c85c1-d7f0-4bf0-b7b5-8458dc44a414,373954273,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-10
+4a2e1a8b-6df5-4da3-a9cb-3a38b8aff4d2,373982083,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-03
+2df9b7f5-8490-4093-9e3d-cdf03ad3982d,373987794,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-12
+5c907384-6c8b-4ad0-804f-e61c57a887bb,374116762,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-05-31
+66f8fe6c-4731-402e-9d41-1eaee466e827,374298664,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-06-22
+24a6fb91-321f-417d-a30a-7a6b123fdd5e,374892204,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-24
+f107ad8f-692b-490f-a4f2-8817985036fc,375927166,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-06-27
+6c9e6f7c-ef40-4328-b241-400f0a9bf3c7,376248084,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-24
+bcf7073b-83ee-43ad-8b86-511120b383a9,376590192,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-14
+e9361e1c-bd4d-4702-8d5b-0560b6a799fb,376653879,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-10-02
+bb385564-3c70-4429-b79e-3c075bce15a7,376740038,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-06-25
+626c4bcf-8e9a-4f88-9a7c-3378e2e5d665,376741513,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-06-25
+9b7dc37e-ed84-47c0-9204-1f623c90185f,376744608,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-06-29
+859a587f-b8a5-47e6-9e54-fcbf431b653d,377002167,"{'id': 28362, 'name': 'Thamnophis sirtalis', 'rank': 'species'}",2026-06-30
+04629f73-ca37-40b2-aa0c-5e68d3f523b7,377117329,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-01
+5a9fae34-f9ae-40f3-a80a-9d89630c2c3a,377322023,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-07-01
+07abf666-8cc3-449f-8223-af4b8d8bfeb3,377772138,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-03
+b9386852-0ec7-4ae9-b26e-7cb40dd10977,378808204,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-01
+2cfbfbea-2d07-4450-aebb-9fd5a742cf3b,379185771,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-07-07
+848fd785-2017-4109-b6a9-9d19bbe69446,379467322,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-07-08
+7a312951-fa5c-4c7f-9b1a-180996147363,379534267,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-07-08
+8e9ea535-7085-43a8-9ba7-a618b384fb37,379732498,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-07-08
+ad83989b-77e9-4168-977b-a41b9bc0fc52,379856366,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-07-09
+02eea55d-252d-4a55-92ce-bf45ee946e27,380644004,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-07-11
+aa76ad0a-374f-425b-bce3-77218f990e67,380685370,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2026-07-12
+3b8596a3-11ea-4962-93cb-d14b025a57ec,381419237,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-07-10
+b38402d3-fc63-458f-979d-0dfc76f99946,381538248,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-07-12
+6f44ac13-2053-4207-966e-c6cb422912c3,381666237,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-15
+04e6035a-23ec-4247-8041-01600d5147c5,381845822,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-07-10
+c914a95b-2de9-406c-b8c9-1e42acb17122,381846807,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-07-14
+7401e3f5-ac8e-46e8-a9db-1dce909da964,382138056,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-04-09
+5c1c0000-1f67-4fa5-a479-17860dd5a9ae,382138058,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-04-16
+5b7e5e82-c50e-4d5b-b674-c6d7c866bf71,382649213,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2022-05-18
+9c168078-2e1e-4829-86db-56fe772ea407,382734733,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-07-18
+109e3a10-93d9-4402-84ba-3f4aa8bfbcb0,382941714,"{'id': 50001, 'name': 'Terrapene carolina carolina', 'rank': 'subspecies'}",2026-07-19
+23d6de75-f833-4a1c-ab72-a61b69139e48,383046749,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-07-19
+9b0a98d3-26b7-4630-b049-615763a3aad4,383052739,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-19
+1aa1bd37-5b8c-489b-9b79-ca3eab286a83,383305079,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-07-19
+8122c832-c710-4353-86a5-1a17e84f6902,383473890,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-07-19
+db5808b1-547e-4358-9884-36e197e0b709,384314819,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-04
+9bd1fe6c-c970-4327-9fc6-28a44bd1116c,384385131,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-07-19
+884c0b15-2a61-4bf3-9922-ee21e04e7f3d,384716882,"{'id': 39838, 'name': 'Malaclemys terrapin terrapin', 'rank': 'subspecies'}",2026-06-12
+9373b833-e182-4f68-8fe9-7cf0d9474889,385016730,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-07-25
+49ea94ea-9e66-4cc3-b9a4-72c46571d7a4,385968340,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-07-28
+9beb436c-e141-40d1-af4e-42a9dd908ba4,386426664,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-05-09
+66077ef6-17d7-40eb-a127-ff0ab49fd540,386694068,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-07-30
+c5d80193-9ff6-458a-a6f1-95e5ebb10d9b,386864870,"{'id': 29925, 'name': 'Heterodon platirhinos', 'rank': 'species'}",2026-07-31
+95eba9bf-0c38-4b2d-817c-018df2ceebf0,386921924,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-07-31
+77d110d6-db50-42ab-9326-cdc00b6654af,386922889,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-07-31
+3e4b566b-b940-4c2d-a25c-541dcd10900a,387868923,"{'id': 40089, 'name': 'Centrochelys sulcata', 'rank': 'species'}",2022-07-21
+aa486d45-3ba5-4843-a0eb-74448ccc4e91,388156735,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-04
+d569d343-2f24-4f15-9511-af1d9019a357,388199949,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-07-04
+cf43e379-2e4b-4698-a760-42b9c4118d02,388206543,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-06-12
+2974e119-c101-4bf3-a763-2c06d890d72d,388212417,"{'id': 39836, 'name': 'Malaclemys terrapin', 'rank': 'species'}",2026-07-15
+1af00b07-a0d0-419e-8068-d95fa9dee6c6,388305151,"{'id': 522411, 'name': 'Podarcis siculus campestris', 'rank': 'subspecies'}",2026-08-04
+1f085450-2bf8-4570-9707-ff11c8301232,389140242,"{'id': 68334, 'name': 'Pelodiscus sinensis', 'rank': 'species'}",2026-08-01
+810291fe-c18b-43ea-abdc-cfa1b26bcb70,389164086,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-07
+38ba5f63-cf7f-489a-bf87-2743bf254e8c,389177406,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-08-07
+a4cbca19-dad3-4bec-80c8-189425ffde46,389338139,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-04
+f9f08a82-2b2d-41e6-b841-02b421c46b67,389345936,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-03-31
+397336fb-f1df-4c5c-a12f-413012298ce9,389346130,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-06-11
+ebb31ab4-c3ad-4bac-9778-fa8786e049a7,389346158,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-06-11
+53950228-3c75-4284-85c8-a3b5120fd6fa,390466612,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-11
+a9c9b462-3932-4ebe-8f0a-697b227a3eb5,390587215,"{'id': 39826, 'name': 'Pseudemys rubriventris', 'rank': 'species'}",2026-08-12
+f94d2dd8-8b24-4c2e-a48e-7420e2f3bf8d,390587262,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-08-12
+014f1b17-5922-477f-9e5e-ba09c9132109,390587298,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-08-12
+8dcdea53-4ba5-497d-a4bf-a3c6eb16e9ef,391189141,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-08-14
+b70ad0c9-6021-4b26-b5e9-2219ff2ec7e2,391459348,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-08-15
+cc40ca7c-67bc-40cf-bc9d-8c9e089cd81e,392279305,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2023-04-09
+5a48eb49-397d-49ae-bf08-91e312bc86ec,392356211,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2025-04-19
+a04a1be0-b897-4fbc-b04e-b9f767adc3b5,392576907,"{'id': 51271, 'name': 'Trachemys scripta elegans', 'rank': 'subspecies'}",2026-08-16
+b3c455b1-9d23-4ba7-9a38-04cb603ef0f6,392982505,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-20
+2487fc4d-9fec-4a9d-bf58-4bee2eb9ef7d,393268425,"{'id': 146314, 'name': 'Opheodrys vernalis', 'rank': 'species'}",2026-08-21
+1de6382b-8afc-4e25-915c-9f48b58cf78d,393539754,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-08-22
+da546b61-b5a5-4f1e-9370-3d7d829d56ac,393612093,"{'id': 39771, 'name': 'Chrysemys picta', 'rank': 'species'}",2026-08-22
+23c2b9a1-db2f-4585-874a-5bc87d5df8c2,393656433,"{'id': 39682, 'name': 'Chelydra serpentina', 'rank': 'species'}",2026-08-22
+13201b14-692a-4fe2-93c6-66d6f30bdb23,393944988,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-08-23
+d8346a68-3460-4c77-85f5-cc8f04d87636,393947376,"{'id': 39782, 'name': 'Trachemys scripta', 'rank': 'species'}",2026-08-23
+7199218d-311a-4cc6-926c-d2cf231ff31e,394256572,"{'id': 337045, 'name': 'Podarcis siculus', 'rank': 'species'}",2026-08-24

@@ -1,0 +1,3 @@
+site,address,method,date,start,end,start_dt,end_dt,weather_start_dt,latitude,longitude,station,mean_temp,mean_rhum,max_wspd,total_prcp
+Carrie,"145 St. Nicholas Ave, New York, NY",bowl,8/16/2026,12:39,12:59,2026-08-16 12:39:00,2026-08-16 12:59:00,2026-08-15 12:39:00,40.7050285,-73.9170309,KJRB0,25.7,73.1,8.0,0.0
+Carrie,"145 St. Nicholas Ave, Manhattan, NY",bowl,8/16/2026,12:39,12:59,2026-08-16 12:39:00,2026-08-16 12:59:00,2026-08-15 12:39:00,40.8044883,-73.9528448,KNYC0,24.4,59.8,9.0,0.0

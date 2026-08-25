@@ -4,54 +4,72 @@
 
 import requests
 from collections import Counter
+import pandas as pd
+from inat_download_function import inat_download
+from inat_list_function import inat_list
 
-#making the request
-url = "https://api.inaturalist.org/v2/observations"
-
-bee_id = 630955
-bronx_id = 1189
-manhattan_id = 1264
+#Testing my new functions out.
+#Goal: get a list of bird species in Suffolk County
 
 params = {
-    "taxon_id": bee_id,
+    "taxon_id": 3,
     "quality_grade": "research",
-    "place_id": 1264,
+    "place_id": 2410,
     "per_page" : 200,
-    "fields": "taxon.id,taxon.name,taxon.rank,observed_on"
+    "order_by": "id",
+    "order" : "asc",
+    "fields": "id,taxon.id,taxon.name,taxon.rank,observed_on"
 }
 
-response = requests.get(url, params=params)
+birds = inat_download(params)
 
-print(response.status_code)
-#200. It works!
+inat_list(birds, "birds_suffolk_checklist")
 
-#convert response to Python
-data = response.json()
+#That pretty much worked!!
+#For a smaller test easier for debugging, I'll do reptiles of Nassau County.
 
-#Extract the species
-obs = data["results"][0]
+reptile_params = {
+    "taxon_id": 26036,
+    "quality_grade": "research",
+    "place_id": 142,
+    "per_page" : 200,
+    "order_by": "id",
+    "order" : "asc",
+    "fields": "id,taxon.id,taxon.name,taxon.rank,observed_on"
+}
 
-print(obs["taxon"]["name"])
+reptiles = inat_download(reptile_params)
 
-for obs in data["results"]:
-    print(obs["taxon"]["name"])
+inat_list(reptiles, "reptiles_nassau_checklist")
 
+#testing grabbing 
+url = "https://api.inaturalist.org/v1/taxa/39682"
 
-#collapsing the species into a checklist
-species = set()
+response = requests.get(url)
+taxon_data = response.json()
 
-for obs in data["results"]:
-    if obs["taxon"]["rank"] == "species":
-        species.add(obs["taxon"]["name"])
+print(taxon_data)
+print(taxon_data.keys())
+print('hehe')
+print(taxon_data["results"][0].keys())
 
-print(species)
+snapper = taxon_data["results"][0]
 
+print(snapper["id"])
+print(snapper["name"])
+print(snapper["rank"])
+print(snapper["preferred_common_name"])
+print(snapper["ancestry"])
+print(snapper["complete_rank"])
+print(snapper["parent_id"])
+#48460/1/2/355675/26036/39532/39680/39681
+    #39681 is the genus
 
-#count observations per species
-species_counts = Counter()
-
-for obs in data["results"]:
-    if obs["taxon"]["rank"] == "species":
-        species_counts[obs["taxon"]["name"]] += 1
-
-print("\n".join(species_counts))
+url = "https://api.inaturalist.org/v1/taxa/39681"
+response = requests.get(url)
+taxon_data = response.json()
+next_level = taxon_data["results"][0]
+print(next_level["id"])
+print(next_level["name"])
+print(next_level["rank"])
+print(next_level["observations_count"])

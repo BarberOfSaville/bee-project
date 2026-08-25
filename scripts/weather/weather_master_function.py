@@ -18,6 +18,7 @@ def weather_master(row):
     Takes a row of a datasheet and gathers weather data for it.
     
     """
+    row = row.copy()
 
     #print info for debugging purposes
     print("Station:", row["station"])
@@ -31,7 +32,11 @@ def weather_master(row):
     #summarize relevant weather values
     weather_summary = summarize_weather(weather)
 
-    return weather_summary
+    #add values from the weather summary to the row
+    for key, value in weather_summary.items():
+        row[key] = value
+
+    return row
 
 
 

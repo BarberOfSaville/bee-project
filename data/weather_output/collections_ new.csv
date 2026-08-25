@@ -1,4 +1,3 @@
-site,address,method,date,start,end
 Krystal,"2093 Vyse Ave, Bronx, NY",net,8/10/2026,9:48,10:26
 River,"1086 E 180th St, Bronx, NY",net,8/10/2026,10:40,11:20
 Drew,"1070 E Tremont Ave, Bronx, NY",net,8/10/2026,12:41,13:18
@@ -28,10 +27,10 @@ Krystal,"2093 Vyse Ave, Bronx, NY",bowl,8/16/2026,9:32,10:17
 River,"1086 E 180th St, Bronx, NY",bowl,8/16/2026,9:57,10:36
 Gallo,"1891 Lexington Ave, New York, NY",bowl,8/16/2026,10:48,11:22
 Lydia,"1665 Park Ave, New York, NY",bowl,8/16/2026,11:12,11:51
-Peaceful,"52 E 117th St, New York, NY",bowl,8/16/2026,11:30,12:15
+Peaceful,"52 E 117th St, New York, NY",bowl,8/16/2026,11:30,0:15
 ELG,"237 W 111th St, New York, NY",bowl,8/15/2026,8:30,12:01
-Luigi,"227 W 115th St, New York, NY",bowl,8/16/2026,12:22,12:38
-Carrie,"145 St. Nicholas Ave, New York, NY",bowl,8/16/2026,12:39,12:59
+Luigi,"227 W 115th St, New York, NY",bowl,8/16/2026,12:22,0:38
+Carrie,"145 St. Nicholas Ave, New York, NY",bowl,8/16/2026,12:39,0:59
 Clayton,"303 W 126th St, New York, NY",bowl,8/16/2026,13:09,13:20
 West123,"116 W 123rd St, New York, NY",bowl,8/16/2026,13:38,13:38
 Luigi,"227 W 115th St, New York, NY",net,8/19/2026,9:28,10:03
@@ -42,40 +41,3 @@ Clayton,"303 W 126th St, New York, NY",net,8/19/2026,15:00,15:36
 ELG,"237 W 111th St, New York, NY",net,8/19/2026,16:05,16:40
 West123,"116 W 123rd St, New York, NY",net,8/20/2026,9:10,9:50
 West123,"116 W 123rd St, New York, NY",net,8/20/2026,12:36,13:15
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,

@@ -44,7 +44,7 @@ while page <= 50:
     page += 1
 
 
-
+print(observations)
 
 
 

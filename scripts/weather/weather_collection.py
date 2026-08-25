@@ -14,9 +14,10 @@ from timestamp_function import timestamp_add
 from summarize_weather_function import summarize_weather
 from bowl_date_function import bowl_date
 from weather_master_function import weather_master
+from filename_datetime import filename_maker
 
 #read CSV and clean out empty rows
-collections = pd.read_csv("../data/raw/collections.csv")
+collections = pd.read_csv("../../data/weather_input/collections.csv")
 collections = collections.dropna(how = "all")
 
 #add timestamps to the dataframe for later use.
@@ -33,13 +34,17 @@ results = []
 
 for index, row in collections.iterrows():
 
-    #run the master weather function on the row
-    weather_summary = weather_master(row)
-
-    #add results to the results dataframe
-    results.append(weather_summary)
+    #run weather master function and add to results df
+    results.append(weather_master(row))
 
 results = pd.DataFrame(results)
 
+#create a unique filename for the output
+filename_base = "weather_summary"
+filename = filename_maker(filename_base)
+
 #output the results dataframe as a CSV
-results.to_csv("../data/processed/weather_summary.csv", index=False)
+results.to_csv("../../data/weather_output/" + filename + ".csv", index=False)
+
+#Print a message confirming it all went successfully.
+print("Output saved as " + filename + ".csv.")
