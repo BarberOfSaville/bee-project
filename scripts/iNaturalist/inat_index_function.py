@@ -24,39 +24,24 @@ def inat_index(taxon_id):
     species_info["taxon_id"] = id
 
     #common name
-    common_name = species["preferred_common_name"]
+    common_name = species.get("preferred_common_name")
     species_info["common_name"] = common_name
 
     #scientific name
     sci_name = species["name"]
     species_info["scientific_name"] = sci_name
 
-    #genus
-    genus_id = species["parent_id"]
-    genus_url = "https://api.inaturalist.org/v1/taxa/" + str(genus_id)
-    response = requests.get(genus_url)
-    genus_data = response.json()
-    genus_results = genus_data["results"][0]
-    genus = genus_results["name"]
-    species_info["genus"] = genus
+    #reading ancestors dictionary to get genus/family/class
+    for ancestor in species["ancestors"]:
 
-    #family
-    family_id = str(genus_results["parent_id"])
-    family_url = "https://api.inaturalist.org/v1/taxa/" + str(family_id)
-    response = requests.get(family_url)
-    family_data = response.json()
-    family_results = family_data["results"][0]
-    family = family_results["name"]
-    species_info["family"] = family
+        if ancestor["rank"] == "genus":
+            species_info["genus"] = ancestor["name"]
 
-    #order
-    order_id = str(family_results["parent_id"])
-    order_url = "https://api.inaturalist.org/v1/taxa/" + str(order_id)
-    response = requests.get(order_url)
-    order_data = response.json()
-    order_results = order_data["results"][0]
-    order = order_results["name"]
-    species_info["order"] = order
+        if ancestor["rank"] == "family":
+            species_info["family"] = ancestor["name"]
+
+        if ancestor["rank"] == "order":
+            species_info["order"] = ancestor["name"]
 
     return(species_info)
 

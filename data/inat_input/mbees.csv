@@ -1,0 +1,81 @@
+id,observations,common_name,scientific_name,genus,family,order
+118970,3993,Common Eastern Bumble Bee,Bombus impatiens,Bombus,Apidae,Hymenoptera
+47219,3328,Western Honey Bee,Apis mellifera,Apis,Apidae,Hymenoptera
+120215,2105,Brown-belted Bumble Bee,Bombus griseocollis,Bombus,Apidae,Hymenoptera
+51110,1059,Eastern Carpenter Bee,Xylocopa virginica,Xylocopa,Apidae,Hymenoptera
+52774,322,Golden Northern Bumble Bee,Bombus fervidus,Bombus,Apidae,Hymenoptera
+62453,301,European Woolcarder Bee,Anthidium manicatum,Anthidium,Megachilidae,Hymenoptera
+567666,245,Two-spotted Longhorn Bee,Melissodes bimaculatus,Melissodes,Apidae,Hymenoptera
+52785,227,Sculptured Resin Bee,Megachile sculpturalis,Megachile,Megachilidae,Hymenoptera
+154298,193,Ligated Furrow Bee,Halictus ligatus,Halictus,Halictidae,Hymenoptera
+52779,182,Two-spotted Bumble Bee,Bombus bimaculatus,Bombus,Apidae,Hymenoptera
+198859,112,Lemon Cuckoo Bumble Bee,Bombus citrinus,Bombus,Apidae,Hymenoptera
+199128,101,Texas Leafcutter Bee,Megachile texana,Megachile,Megachilidae,Hymenoptera
+82530,100,Bicolored Striped Sweat Bee,Agapostemon virescens,Agapostemon,Halictidae,Hymenoptera
+82523,91,Pure Green Sweat bee,Augochlora pura,Augochlora,Halictidae,Hymenoptera
+135307,58,Hibiscus Turret Bee,Ptilothrix bombiformis,Ptilothrix,Apidae,Hymenoptera
+134149,49,Dark-veined Longhorn Bee,Melissodes trinodis,Melissodes,Apidae,Hymenoptera
+747130,44,Denticulate Longhorn Bee,Melissodes denticulatus,Melissodes,Apidae,Hymenoptera
+199048,35,Modest Masked Bee,Hylaeus modestus,Hylaeus,Colletidae,Hymenoptera
+934230,33,Eight-toothed Cuckoo Leaf-cutter Bee,Coelioxys octodentatus,Coelioxys,Megachilidae,Hymenoptera
+199115,30,Confusing Furrow Bee,Halictus confusus,Halictus,Halictidae,Hymenoptera
+154682,30,Silky Striped Sweat Bee,Agapostemon sericeus,Agapostemon,Halictidae,Hymenoptera
+452938,29,Lunate Longhorn-cuckoo Bee,Triepeolus lunatus,Triepeolus,Apidae,Hymenoptera
+199131,26,Flat-tailed Leafcutter Bee,Megachile mendica,Megachile,Megachilidae,Hymenoptera
+199050,21,Slender-faced Masked Bee,Hylaeus leptocephalus,Hylaeus,Colletidae,Hymenoptera
+121510,16,Blueberry Digger Bee,Habropoda laboriosa,Habropoda,Apidae,Hymenoptera
+487440,11,Rufous-backed Cellophane Bee,Colletes thoracicus,Colletes,Colletidae,Hymenoptera
+198850,11,Pugnacious Leafcutter Bee,Megachile pugnata,Megachile,Megachilidae,Hymenoptera
+125792,11,Oblong Woolcarder Bee,Anthidium oblongatum,Anthidium,Megachilidae,Hymenoptera
+52783,10,Alfalfa Leafcutter Bee,Megachile rotundata,Megachile,Megachilidae,Hymenoptera
+127785,10,Wilke's Mining Bee,Andrena wilkella,Andrena,Andrenidae,Hymenoptera
+199136,8,Frigid Leafcutter Bee,Megachile frigida,Megachile,Megachilidae,Hymenoptera
+626643,6,Say's Cuckoo Leafcutter Bee,Coelioxys sayi,Coelioxys,Megachilidae,Hymenoptera
+335714,6,,Megachile apicalis,Megachile,Megachilidae,Hymenoptera
+198854,6,Orange-tipped Wood-digger,Anthophora terminalis,Anthophora,Apidae,Hymenoptera
+499394,6,European Small-Woolcarder,Pseudoanthidium nanum,Pseudoanthidium,Megachilidae,Hymenoptera
+124406,6,Patchwork Leafcutter Bee,Megachile centuncularis,Megachile,Megachilidae,Hymenoptera
+1594041,5,Pruinose Squash Bee,Xenoglossa pruinosa,Xenoglossa,Apidae,Hymenoptera
+309382,5,,Megachile inimica,Megachile,Megachilidae,Hymenoptera
+198981,5,Milwaukee Mining Bee,Andrena milwaukeensis,Andrena,Andrenidae,Hymenoptera
+626593,5,,Coelioxys coturnix,Coelioxys,Megachilidae,Hymenoptera
+452985,4,Bellflower Resin Bee,Megachile campanulae,Megachile,Megachilidae,Hymenoptera
+198987,4,Hairy-banded Mining Bee,Andrena hirticincta,Andrena,Andrenidae,Hymenoptera
+199089,4,Rugose-chested Sweat Bee,Lasioglossum pectorale,Lasioglossum,Halictidae,Hymenoptera
+198996,4,Spring Beauty Miner,Andrena erigeniae,Andrena,Andrenidae,Hymenoptera
+459075,3,Punctate Masked Bee,Hylaeus punctatus,Hylaeus,Colletidae,Hymenoptera
+198860,3,Spurred Ceratina,Ceratina calcarata,Ceratina,Apidae,Hymenoptera
+313243,3,Louisiana Painted-Dark bee,Stelis louisae,Stelis,Megachilidae,Hymenoptera
+452952,3,Broad-footed Cellophane Bee,Colletes latitarsis,Colletes,Colletidae,Hymenoptera
+199116,3,Pickerelweed Shortface,Dufourea novaeangliae,Dufourea,Halictidae,Hymenoptera
+198958,3,Neighborly Mining Bee,Andrena vicina,Andrena,Andrenidae,Hymenoptera
+199098,3,Bristle Sweat Bee,Lasioglossum imitatum,Lasioglossum,Halictidae,Hymenoptera
+198979,2,Miserable Mining Bee,Andrena miserabilis,Andrena,Andrenidae,Hymenoptera
+905961,2,Zephyr Sweat Bee,Lasioglossum zephyrus,Lasioglossum,Halictidae,Hymenoptera
+121508,2,Horn-faced Mason Bee,Osmia cornifrons,Osmia,Megachilidae,Hymenoptera
+198997,2,Dunning's Miner,Andrena dunningi,Andrena,Andrenidae,Hymenoptera
+198977,1,Nason's Mining Bee,Andrena nasonii,Andrena,Andrenidae,Hymenoptera
+133766,1,Golden Sweat Bee,Augochlorella aurata,Augochlorella,Halictidae,Hymenoptera
+459074,1,Hairy masked Bee,Hylaeus hyalinatus,Hylaeus,Colletidae,Hymenoptera
+626546,1,Alternate Cuckoo Leafcutter Bee,Coelioxys alternatus,Coelioxys,Megachilidae,Hymenoptera
+199104,1,Deep-blue Sweat Bee,Lasioglossum coeruleum,Lasioglossum,Halictidae,Hymenoptera
+461507,1,Taurus Mason Bee,Osmia taurus,Osmia,Megachilidae,Hymenoptera
+308807,1,,Megachile exilis,Megachile,Megachilidae,Hymenoptera
+199056,1,Brown-winged Striped Sweat Bee,Agapostemon splendens,Agapostemon,Halictidae,Hymenoptera
+56887,1,American Bumble Bee,Bombus pensylvanicus,Bombus,Apidae,Hymenoptera
+121507,1,Blue Orchard Bee,Osmia lignaria,Osmia,Megachilidae,Hymenoptera
+199085,1,Quebec Sweat Bee,Lasioglossum quebecense,Lasioglossum,Halictidae,Hymenoptera
+452986,1,Mock-orange Scissor Bee,Chelostoma philadelphi,Chelostoma,Megachilidae,Hymenoptera
+492993,1,Cherry Mining Bee,Andrena pruni,Andrena,Andrenidae,Hymenoptera
+52780,1,Agile Longhorn Bee,Melissodes agilis,Melissodes,Apidae,Hymenoptera
+226669,1,Georgia Mason Bee,Osmia georgica,Osmia,Megachilidae,Hymenoptera
+198952,1,Eastern Miner Bee,Calliopsis andreniformis,Calliopsis,Andrenidae,Hymenoptera
+747191,1,,Melissodes subillatus,Melissodes,Apidae,Hymenoptera
+452920,1,Nude Mining Bee,Andrena nuda,Andrena,Andrenidae,Hymenoptera
+199041,1,Unequal Cellophane Bee,Colletes inaequalis,Colletes,Colletidae,Hymenoptera
+198986,1,Imitator Miner Bee,Andrena imitatrix,Andrena,Andrenidae,Hymenoptera
+155085,1,Perplexing Bumble Bee,Bombus perplexus,Bombus,Apidae,Hymenoptera
+199125,1,Bufflehead Mason Bee,Osmia bucephala,Osmia,Megachilidae,Hymenoptera
+452939,1,Squash Longhorn-Cuckoo,Triepeolus remigatus,Triepeolus,Apidae,Hymenoptera
+433922,1,,Megachile pusilla,Megachile,Megachilidae,Hymenoptera
+1426449,1,Placid Nomad Bee,Nomada placida,Nomada,Apidae,Hymenoptera

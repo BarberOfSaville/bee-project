@@ -42,6 +42,36 @@ reptiles = inat_download(reptile_params)
 
 inat_list(reptiles, "reptiles_nassau_checklist")
 
+#Another, less intensive test: reptiles of Manhattan
+amphibian_params = {
+    "taxon_id": 20978,
+    "quality_grade": "research",
+    "place_id": 1264,
+    "per_page" : 200,
+    "order_by": "id",
+    "order" : "asc",
+    "fields": "id,taxon.id,taxon.name,taxon.rank,observed_on"
+}
+
+amphibiansny = inat_download(amphibian_params)
+inat_list(amphibiansny, "city_amphibians")
+#It works! IT WORKS!
+
+#An even smaller debug one: canines of suffolk county
+canine_params = {
+    "taxon_id": 42043,
+    "quality_grade": "research",
+    "place_id": 2410,
+    "per_page" : 200,
+    "order_by": "id",
+    "order" : "asc",
+    "fields": "id,taxon.id,taxon.name,taxon.rank,observed_on"
+}
+
+canines = inat_download(canine_params)
+inat_list(canines, "li_canines")
+
+
 #testing grabbing 
 url = "https://api.inaturalist.org/v1/taxa/39682"
 
@@ -60,6 +90,7 @@ print(snapper["name"])
 print(snapper["rank"])
 print(snapper["preferred_common_name"])
 print(snapper["ancestry"])
+print(snapper["ancestors"])
 print(snapper["complete_rank"])
 print(snapper["parent_id"])
 #48460/1/2/355675/26036/39532/39680/39681
@@ -73,3 +104,11 @@ print(next_level["id"])
 print(next_level["name"])
 print(next_level["rank"])
 print(next_level["observations_count"])
+
+
+#debugging megachile
+url = "https://api.inaturalist.org/v1/taxa/309382"
+response = requests.get(url)
+taxon_data = response.json()
+megachile = taxon_data["results"][0]
+print(megachile["preferred_common_name"])

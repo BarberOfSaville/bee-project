@@ -36,14 +36,18 @@ def inat_list(observations, filename):
 
         species_info = inat_index(taxon_id)
 
-        species_df.loc[i, "common_name"] = species_info["common_name"]
-        species_df.loc[i, "scientific_name"] = species_info["scientific_name"]
-        species_df.loc[i, "genus"] = species_info["genus"]
-        species_df.loc[i, "family"] = species_info["family"]
-        species_df.loc[i, "order"] = species_info["order"]
+        species_df.loc[i, "common_name"] = species_info.get("common_name")
+        species_df.loc[i, "scientific_name"] = species_info.get("scientific_name")
+        species_df.loc[i, "genus"] = species_info.get("genus")
+        species_df.loc[i, "family"] = species_info.get("family")
+        species_df.loc[i, "order"] = species_info.get("order")
 
-        print("Added info for " + species_df.loc[i, "common_name"])
-        time.sleep(1)
+        if species_info["common_name"] is None:
+            print("Added info for " + species_df.loc[i, "scientific_name"])
+        else:
+             print("Added info for " + species_df.loc[i, "common_name"])
+             
+    time.sleep(0.5)
 
     #Sorting that dataframe
     species_df = species_df.sort_values(
