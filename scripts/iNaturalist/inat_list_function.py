@@ -28,7 +28,7 @@ def inat_list(observations, filename):
     #Converting this count into a table
     species_df = pd.DataFrame(
         species_counts.items(),
-        columns=["ID", "Observations"]
+        columns=["id", "observations"]
     )
 
     #Add species info
@@ -62,4 +62,4 @@ def inat_list(observations, filename):
     #Exporting the dataframe
     species_df.to_csv(location, index=False)
 
-    print("Huzzah! Species list exported as " + new_filename + ".csv")
+    print("Species list exported as " + new_filename + ".csv")
